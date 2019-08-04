@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 This repository contains the 2021 series - the first working draft - of the the governance guidelines and scheme rules for YuTru, the digital trust framework, operated by the Digital Identification Bureau Ltd.
 
 # Bibliography
