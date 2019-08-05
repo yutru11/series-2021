@@ -1,0 +1,4 @@
+# Section X: Scheme Documents
+
+## Introduction
+This section outlines the official documents of the scheme, used to memorialise how the Governance Guidelines and Scheme Rules are managed.
