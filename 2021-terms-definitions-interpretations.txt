@@ -1,0 +1,124 @@
+    ┌───────────────────────────────────────────────────────────────────────┐
+    │                                                                       │
+    │               YuTru: Scheme Documentation, Series 2021                │
+    │                                                                       │
+    └───────────────────────────────────────────────────────────────────────┘
+# Series: 2021
+# Status: DRAFT
+# Name: Terms, Definitions, Interpretations
+
+
+
+
+
+
+
+
+
+
+=========================================================================================================================
+## Section 1: Document Status Values
+==========================================================================================================================
+Each document will be labelled with the following dimensions:
+
+--------------------------------------------------------------------------------------------------------------------------
+### Document Reference Number
+A unique number to refer to the document by, prefixed by: PNG-DTF.
+
+### Version
+An integer padded to with zeroes to three decimal places representing the version of the document.
+
+### Revision
+An alphabetic character representing the number of revisions of the current version. 
+
+### Editing Status
+Each scheme document will be given one and only one of the following statuses: Draft | Initial | Circulation | Review | Final
+
+### Audience
+Each scheme document will have one and only one audience designation: Project | Governance | Operating
+
+
+
+
+
+
+
+
+
+==========================================================================================================================
+## Section 2: Level of Requirements
+==========================================================================================================================
+The following definitions are interpreted according to the definitions in RFC-2119 [https://www.ietf.org/rfc/rfc2119.txt]:
+
+--------------------------------------------------------------------------------------------------------------------------
+# MAY
+--------------------------------------------------------------------------------------------------------------------------
+This word, or the corresponding adjective "OPTIONAL", mean that an item is discretional.  One participating entity may choose to include the item because they deem it necessary or because the participating entity asserts that it enhances their scheme implementation, while another participating entity may omit the same item. 
+
+A scheme implementation by a participating entity which does not include a particular option MUST be prepared to interoperate with other implementations which do include the option, though perhaps with reduced functionality.  
+
+In the same vane an implementation which does include a particular option MUST be prepared to interoperate with another implementation which does not include the option (except, of course, for the feature the option provides.)
+
+--------------------------------------------------------------------------------------------------------------------------
+# MUST
+--------------------------------------------------------------------------------------------------------------------------
+This word, or the terms "REQUIRED" or "SHALL", mean that the definition is an absolute requirement of the Scheme. 
+
+--------------------------------------------------------------------------------------------------------------------------
+# MUST NOT	
+--------------------------------------------------------------------------------------------------------------------------
+This phrase, or the phrase "SHALL NOT", mean that the definition is an absolute prohibition of the Scheme.
+
+--------------------------------------------------------------------------------------------------------------------------
+# SHOULD	
+--------------------------------------------------------------------------------------------------------------------------
+This word, or the corresponding adjective "RECOMMENDED", mean that there may exist valid reasons in particular circumstances to ignore a particular item of the Scheme, but the full implications must be understood and carefully weighed before choosing a different course.
+
+--------------------------------------------------------------------------------------------------------------------------
+# SHOULD NOT
+--------------------------------------------------------------------------------------------------------------------------
+This phrase, or the phrase "NOT RECOMMENDED", mean that there may exist valid reasons in particular circumstances when the particular behaviour is acceptable or even useful in the Scheme, but the full implications should be understood, and the case carefully weighed before implementing any behaviour described with this label.
+
+
+
+
+
+
+
+
+
+
+==========================================================================================================================
+## Section 3: Terms and Definitions
+==========================================================================================================================
+In this section, unless the contrary intention is stated:
+
+"governance council" means
+"scheme commissioner" means
+"scheme rules" means
+"governance council" means
+"scheme commissioner" means
+"scheme rules" means
+"governance council" means
+"scheme commissioner" means
+"scheme rules" means
+"governance council" means
+"scheme commissioner" means
+"scheme rules" means
+"governance council" means
+"scheme commissioner" means
+"scheme rules" means
+"governance council" means
+"scheme commissioner" means
+"scheme rules" means
+"governance council" means
+"scheme commissioner" means
+"scheme rules" means
+"governance council" means
+"scheme commissioner" means
+"scheme rules" means
+"governance council" means
+"scheme commissioner" means
+"scheme rules" means
+
+

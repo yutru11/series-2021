@@ -1,4 +1,6 @@
-# Section 1: Scheme Roles: Internal
+# Series: 2021
+# Status: DRAFT
+# Name: Scheme Roles (Internal)
 This document describes the initial proposed rights and responsibilities of the "internal" roles of the YuTru scheme.
 
 There are four (4) other documents which should be read as research into this tasking:
