@@ -1,11 +1,39 @@
-    ┌───────────────────────────────────────────────────────────────────────┐
-    │                                                                       │
-    │               YuTru: Scheme Documentation, Series 2021                │
-    │                                                                       │
-    └───────────────────────────────────────────────────────────────────────┘
-# Series: 2021
-# Status: DRAFT
-# Name: Terms, Definitions, Interpretations
+=========================================================================================================================
+# Copyright
+=========================================================================================================================
+© 2018- Digital Identification Bureau Limited.  All rights reserved.
+
+The “YuTru” brand including the “YuTru” circles and lines logo are trademarks of the Digital Identification Bureau Limited trading in the name YuTru. 
+
+The official website is: https://yutru.org.
+
+No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the written permission of the Digital Identification Bureau Limited, except in the case of brief quotations embodied in critical reviews and certain other non-commercial uses permitted by copyright law.
+
+For permission requests or enquiries, write to the Digital Identification Bureau Limited, addressed ‘Attention: Chairman,’ at the address below:
+C/- Mr Steve Patrick
+Dentons PNG
+Level 5, BSP Haus, Harbour City
+Konedobu, National Capital District
+Papua New Guinea
+
+=========================================================================================================================
+# Terms, Definition, Interpretations
+=========================================================================================================================
+┌───────────────────────────────────────────────────────────────────────┐
+│                                                                       │
+│               YuTru: Scheme Documentation, Series 2021                │
+│                                                                       │
+└───────────────────────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────────────────────┐
+│Name:				    Terms, Definition, Interpretations         │
+│Document Reference Number:  GG2021.02                                  │
+│ID:                         02             		                      │
+│Version:                    1                                          │
+│Revision:                   A                                          │
+│Set:                        Governance                                 │
+│Scope                       Private                                    │
+│Status                      Draft                                      │
+└───────────────────────────────────────────────────────────────────────┘
 
 
 
@@ -17,11 +45,13 @@
 
 
 =========================================================================================================================
+# Introduction
+=========================================================================================================================
+==========================================================================================================================
 ## Section 1: Document Status Values
 ==========================================================================================================================
 Each document will be labelled with the following dimensions:
 
---------------------------------------------------------------------------------------------------------------------------
 ### Document Reference Number
 A unique number to refer to the document by, prefixed by: PNG-DTF.
 
@@ -50,33 +80,23 @@ Each scheme document will have one and only one audience designation: Project | 
 ==========================================================================================================================
 The following definitions are interpreted according to the definitions in RFC-2119 [https://www.ietf.org/rfc/rfc2119.txt]:
 
---------------------------------------------------------------------------------------------------------------------------
-# MAY
---------------------------------------------------------------------------------------------------------------------------
+### MAY
 This word, or the corresponding adjective "OPTIONAL", mean that an item is discretional.  One participating entity may choose to include the item because they deem it necessary or because the participating entity asserts that it enhances their scheme implementation, while another participating entity may omit the same item. 
 
 A scheme implementation by a participating entity which does not include a particular option MUST be prepared to interoperate with other implementations which do include the option, though perhaps with reduced functionality.  
 
 In the same vane an implementation which does include a particular option MUST be prepared to interoperate with another implementation which does not include the option (except, of course, for the feature the option provides.)
 
---------------------------------------------------------------------------------------------------------------------------
-# MUST
---------------------------------------------------------------------------------------------------------------------------
+### MUST
 This word, or the terms "REQUIRED" or "SHALL", mean that the definition is an absolute requirement of the Scheme. 
 
---------------------------------------------------------------------------------------------------------------------------
-# MUST NOT	
---------------------------------------------------------------------------------------------------------------------------
+### MUST NOT	
 This phrase, or the phrase "SHALL NOT", mean that the definition is an absolute prohibition of the Scheme.
 
---------------------------------------------------------------------------------------------------------------------------
-# SHOULD	
---------------------------------------------------------------------------------------------------------------------------
+### SHOULD	
 This word, or the corresponding adjective "RECOMMENDED", mean that there may exist valid reasons in particular circumstances to ignore a particular item of the Scheme, but the full implications must be understood and carefully weighed before choosing a different course.
 
---------------------------------------------------------------------------------------------------------------------------
-# SHOULD NOT
---------------------------------------------------------------------------------------------------------------------------
+### SHOULD NOT
 This phrase, or the phrase "NOT RECOMMENDED", mean that there may exist valid reasons in particular circumstances when the particular behaviour is acceptable or even useful in the Scheme, but the full implications should be understood, and the case carefully weighed before implementing any behaviour described with this label.
 
 

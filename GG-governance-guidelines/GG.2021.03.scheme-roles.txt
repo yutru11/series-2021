@@ -1,6 +1,52 @@
-# Series: 2021
-# Status: DRAFT
-# Name: Scheme Roles (Internal)
+=========================================================================================================================
+# Copyright
+=========================================================================================================================
+© 2018- Digital Identification Bureau Limited.  All rights reserved.
+
+The “YuTru” brand including the “YuTru” circles and lines logo are trademarks of the Digital Identification Bureau Limited trading in the name YuTru. 
+
+The official website is: https://yutru.org.
+
+No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the written permission of the Digital Identification Bureau Limited, except in the case of brief quotations embodied in critical reviews and certain other non-commercial uses permitted by copyright law.
+
+For permission requests or enquiries, write to the Digital Identification Bureau Limited, addressed ‘Attention: Chairman,’ at the address below:
+C/- Mr Steve Patrick
+Dentons PNG
+Level 5, BSP Haus, Harbour City
+Konedobu, National Capital District
+Papua New Guinea
+
+=========================================================================================================================
+# Scheme Roles
+=========================================================================================================================
+┌───────────────────────────────────────────────────────────────────────┐
+│                                                                       │
+│               YuTru: Scheme Documentation, Series 2021                │
+│                                                                       │
+└───────────────────────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────────────────────┐
+│Name:				    Scheme Roles  					       │
+│Document Reference Number:  GG2021.03                                  │
+│ID:                         03		                                │
+│Version:                    1                                          │
+│Revision:                   A                                          │
+│Set:                        Governance                                 │
+│Scope                       Private                                    │
+│Status                      Draft                                      │
+└───────────────────────────────────────────────────────────────────────┘
+
+
+
+
+
+
+
+
+
+
+=========================================================================================================================
+# Introduction
+=========================================================================================================================
 This document describes the initial proposed rights and responsibilities of the "internal" roles of the YuTru scheme.
 
 There are four (4) other documents which should be read as research into this tasking:
@@ -82,5 +128,18 @@ We start here using the words: 'must' and 'may', to define requirement levels, a
 + Must make contributions of IP.
 + Will not retain IPR on contributed IP.
 + Must declare IP contribution in order to have IPR retained.
+
+
+
+
+
+
+
+
+
+
+=========================================================================================================================
+# Scheme Roles (External)
+=========================================================================================================================
 
 --- end of document ---

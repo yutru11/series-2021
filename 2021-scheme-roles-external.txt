@@ -1,8 +1,0 @@
-# Series: 2021
-# Status: DRAFT
-# Name: Scheme Documents and Messages
-
-Official communications of the scheme can only be found in one or more of the following formats and structures:
-
-
-
