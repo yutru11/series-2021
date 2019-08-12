@@ -1,1 +1,6 @@
-section X-scheme-roles-external.txt
+# Section 3: Scheme Documents and Messages
+
+Official communications of the scheme can only be found in one or more of the following formats and structures:
+
+
+
