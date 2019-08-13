@@ -67,8 +67,11 @@ Each scheme document will be given one and only one of the following statuses: D
 ### Audience
 Each scheme document will have one and only one audience designation: Project | Governance | Operating
 
+### Author
+Each scheme document may have one or more authors. A name and email address for each should be provided.
 
-
+### Owner
+Each scheme document may have one or more owners. A name and email address for each should be provided.
 
 
 

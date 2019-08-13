@@ -16,6 +16,15 @@ Level 5, BSP Haus, Harbour City
 Konedobu, National Capital District
 Papua New Guinea
 
+
+
+
+
+
+
+
+
+
 =========================================================================================================================
 # Document Structure
 =========================================================================================================================
@@ -45,11 +54,8 @@ Papua New Guinea
 
 
 =========================================================================================================================
-# Introduction
+# Table of Contents
 =========================================================================================================================
-This document outlines the structure of the governance guideline documents and the purpose of each. 
-This document can be read as a 'roadmap' to navigate the scheme documentation.
-
 ## POLICY::
 	Scheme Charter								PNG-DTF-012, Part I, Section 1
 	Scheme Roles: Internal, External				PNG-DTF-013, Part I, Section 2
@@ -63,3 +69,18 @@ This document can be read as a 'roadmap' to navigate the scheme documentation.
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+
+
+
+
+
+
+
+
+=========================================================================================================================
+# Introduction
+=========================================================================================================================
+This document explains the structure and purpose of each section in the "Governance Guidelines" document.
+This document forms a 'roadmap' from which to navigate the "Governance Guidelines" document.
+
+The purpose of these governance guidelines is to set out how the scheme's operation will be governed.

@@ -17,6 +17,15 @@ Level 5, BSP Haus, Harbour City
 Konedobu, National Capital District
 Papua New Guinea
 
+
+
+
+
+
+
+
+
+
 =========================================================================================================================
 # Document Structure
 =========================================================================================================================
@@ -37,16 +46,17 @@ Papua New Guinea
 └───────────────────────────────────────────────────────────────────────┘
 
 
+
+
+
+
+
+
+
+
 =========================================================================================================================
-# Scheme Rules
+# Table of Contents
 =========================================================================================================================
-
-The purpose of these scheme rules is:
-(a) to promote a consistent method for the digital identiciation and verification of end users in the financial system in Papua New Guinea;
-(b) to maximise the data interoperability among participating entity electronic systems; and
-(c) to promote efficiency in the economy by enabling end users to electronically register their identity and transact using that identity.
-
-
 
 Registration::
 	This section explains how end users will be registered by participating entities.
@@ -85,4 +95,33 @@ Support::
 
 Updates::
 -------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+=========================================================================================================================
+# Introduction
+=========================================================================================================================
+This document explains the structure and purpose of each section in the "Scheme Rules" document.
+This document forms a 'roadmap' from which to navigate the "Scheme Rules" document.
+
+The purpose of these scheme rules is:
+(a) to promote a consistent method for the digital identiciation and verification of end users in the financial system in Papua New Guinea;
+(b) to maximise the data interoperability among participating entity electronic systems; and
+(c) to promote efficiency in the economy by enabling end users to electronically register their identity and transact using that identity.
+
+
+
+
+
+
+
+
+
 --- end of document ---
