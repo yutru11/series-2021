@@ -15,9 +15,19 @@ Dentons PNG
 Level 5, BSP Haus, Harbour City
 Konedobu, National Capital District
 Papua New Guinea
+-------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
 
 =========================================================================================================================
-# Terms, Definition, Interpretations
+# Header
 =========================================================================================================================
 ┌───────────────────────────────────────────────────────────────────────┐
 │                                                                       │
@@ -25,15 +35,15 @@ Papua New Guinea
 │                                                                       │
 └───────────────────────────────────────────────────────────────────────┘
 ┌───────────────────────────────────────────────────────────────────────┐
-│Name:				    Terms, Definition, Interpretations         │
-│Document Reference Number:  GG2021.02                                  │
-│ID:                         02             		                      │
+│Document Name:	         Terms and Definitions                      │
+│Reference Number:           GG2021.01                                  │
 │Version:                    1                                          │
 │Revision:                   A                                          │
 │Set:                        Governance                                 │
-│Scope                       Private                                    │
-│Status                      Draft                                      │
+│Audience:                   Private                                    │
+│Status:                     Draft                                      │
 └───────────────────────────────────────────────────────────────────────┘
+
 
 
 
@@ -47,9 +57,9 @@ Papua New Guinea
 =========================================================================================================================
 # Introduction
 =========================================================================================================================
-==========================================================================================================================
+=========================================================================================================================
 ## Section 1: Document Status Values
-==========================================================================================================================
+=========================================================================================================================
 Each document will be labelled with the following dimensions:
 
 ### Document Reference Number
@@ -61,17 +71,16 @@ An integer padded to with zeroes to three decimal places representing the versio
 ### Revision
 An alphabetic character representing the number of revisions of the current version. 
 
-### Editing Status
-Each scheme document will be given one and only one of the following statuses: Draft | Initial | Circulation | Review | Final
-
 ### Audience
-Each scheme document will have one and only one audience designation: Project | Governance | Operating
+Each scheme document will have one and only one audience designation: 
+	Project | Governance | Operating
 
-### Author
-Each scheme document may have one or more authors. A name and email address for each should be provided.
+### Scope
 
-### Owner
-Each scheme document may have one or more owners. A name and email address for each should be provided.
+
+###  Status
+Each scheme document will be given one and only one of the following statuses: 
+	Draft | Initial | Circulation | Review | Final
 
 
 

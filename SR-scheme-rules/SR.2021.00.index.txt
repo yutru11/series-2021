@@ -15,9 +15,19 @@ Dentons PNG
 Level 5, BSP Haus, Harbour City
 Konedobu, National Capital District
 Papua New Guinea
+-------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
 
 =========================================================================================================================
-# Forms
+# Header
 =========================================================================================================================
 ┌───────────────────────────────────────────────────────────────────────┐
 │                                                                       │
@@ -25,9 +35,8 @@ Papua New Guinea
 │                                                                       │
 └───────────────────────────────────────────────────────────────────────┘
 ┌───────────────────────────────────────────────────────────────────────┐
-│Name:				    Forms						            │
-│Document Reference Number:  GG2021.04                                  │
-│ID:                         04           		                      │
+│Document Name:	         Document Structure                         │
+│Document Reference Number:  SR2021.00                                  │
 │Version:                    1                                          │
 │Revision:                   A                                          │
 │Set:                        Governance                                 │
@@ -45,18 +54,72 @@ Papua New Guinea
 
 
 =========================================================================================================================
+# Table of Contents
+=========================================================================================================================
+
+Registration:
+	This section explains how end users will be registered by participating entities.
+	Resolution -> Validation -> Verification -> Vetting -> Enrolment
+
+Credentialling:
+	This section explains how end users will be issued a digital credential that represents their vetted and registered identity.
+	Issuance -> Maintenance -> Revokation
+
+Authentication:
+	This section explains how relying parties will authenticate an end user who asserts possession of a YuTru identity.
+	Assertion -> Verification -> Authentication
+
+Authorisation:
+	This section explains how participating entities will authorise an end user to transact.
+	Eligibility -> Role -> Risk Assessment -> Data Minimisation
+
+Maintenance:
+	Maintenance
+	
+
+Redress:
+
+
+Recovery:
+
+
+Assessments:
+
+
+Audits:
+
+
+Support:
+
+
+Updates:
+
+
+
+
+
+
+
+
+
+
+=========================================================================================================================
 # Introduction
 =========================================================================================================================
-## GOVERNANCE GUIDELINES (GG) - PART I
-## ===================================
+This document explains the structure and purpose of each section in the "Scheme Rules" document.
+This document forms a 'roadmap' from which to navigate the "Scheme Rules" document.
 
-### POLICY::
-	Scheme Charter								PNG-DTF-012, Part I, Section 1
-	Scheme Roles: Internal, External				PNG-DTF-013, Part I, Section 2
-	Terms and Definitions						PNG-DTF-014, Part I, Section 3
-	Intellectual Property Rights and Definitions		PNG-DTF-015, Part I, Section 4
+The purpose of these scheme rules is:
+(a) to promote a consistent method for the digital identiciation and verification of end users in the financial system in Papua New Guinea;
+(b) to maximise the data interoperability among participating entity electronic systems; and
+(c) to promote efficiency in the economy by enabling end users to electronically register their identity and transact using that identity.
 
-### ENGAGEMENT::
-	Confidentiality Agreement					PNG-DTF-016, Part I, Section 5
-	Member Engagement Method						PNG-DTF-017, Part I, Section 6
-	Member Agreement: 							PNG-DTF-018, Part I, Section 7
+
+
+
+
+
+
+
+
+--- end of document ---

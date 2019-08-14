@@ -15,9 +15,19 @@ Dentons PNG
 Level 5, BSP Haus, Harbour City
 Konedobu, National Capital District
 Papua New Guinea
+-------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
 
 =========================================================================================================================
-# Scheme Roles
+# Header
 =========================================================================================================================
 ┌───────────────────────────────────────────────────────────────────────┐
 │                                                                       │
@@ -25,9 +35,8 @@ Papua New Guinea
 │                                                                       │
 └───────────────────────────────────────────────────────────────────────┘
 ┌───────────────────────────────────────────────────────────────────────┐
-│Name:				    Scheme Roles  					       │
-│Document Reference Number:  GG2021.03                                  │
-│ID:                         03		                                │
+│Document Name:	         Scheme Roles                               │
+│Document Reference Number:  GG2021.02                                  │
 │Version:                    1                                          │
 │Revision:                   A                                          │
 │Set:                        Governance                                 │
@@ -49,12 +58,18 @@ Papua New Guinea
 =========================================================================================================================
 This document describes the initial proposed rights and responsibilities of the "internal" roles of the YuTru scheme.
 
-There are four (4) other documents which should be read as research into this tasking:
-+ PNG-DTF-1-013.Scheme Roles (attached) - for an overview of the governance organs.
-+ PNG-DTF-1-014.Terms and Definitions - which represents vocabulary and defintions we want all matter to rely upon or incorporate.
-+ PNG-DTF-1-015.IP Definition and Rights - which sets out our understanding of how scheme mebmers will want their IP and IPR handled when interacting with the scheme.
-+ PNG-DTF-1-016.Confidentiality Agreement (attached) - based on copy provided to us by Dentons last year and which we want included in the registration instrument.
 
+
+
+
+
+
+
+
+
+=========================================================================================================================
+# Scheme Roles (Internal)
+=========================================================================================================================
 We offer this note to Dentons to help draft an "agreement" or "contract" to bind members to these roles in the scheme during the course of their registration.
 We need the agreeemnt to be legally valid in the legal jurisdiction of PNG with an eye to the broader Asia-Pacific context.
 We offer some initial key concepts and definitions to help us explain the structure we are seeking.

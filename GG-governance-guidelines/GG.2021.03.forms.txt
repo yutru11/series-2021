@@ -1,7 +1,6 @@
 =========================================================================================================================
 # Copyright
 =========================================================================================================================
-
 © 2018- Digital Identification Bureau Limited.  All rights reserved.
 
 The “YuTru” brand including the “YuTru” circles and lines logo are trademarks of the Digital Identification Bureau Limited trading in the name YuTru. 
@@ -16,6 +15,7 @@ Dentons PNG
 Level 5, BSP Haus, Harbour City
 Konedobu, National Capital District
 Papua New Guinea
+-------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -27,7 +27,7 @@ Papua New Guinea
 
 
 =========================================================================================================================
-# Document Structure
+# Header
 =========================================================================================================================
 ┌───────────────────────────────────────────────────────────────────────┐
 │                                                                       │
@@ -35,9 +35,8 @@ Papua New Guinea
 │                                                                       │
 └───────────────────────────────────────────────────────────────────────┘
 ┌───────────────────────────────────────────────────────────────────────┐
-│Name:				    Document Structure			            │
-│Document Reference Number:  SR2021.01                                  │
-│ID:                         02             		                      │
+│Document Name:	         Forms	                                     │
+│Document Reference Number:  GG2021.03                                  │
 │Version:                    1                                          │
 │Revision:                   A                                          │
 │Set:                        Governance                                 │
@@ -55,73 +54,6 @@ Papua New Guinea
 
 
 =========================================================================================================================
-# Table of Contents
-=========================================================================================================================
-
-Registration::
-	This section explains how end users will be registered by participating entities.
-	Resolution -> Validation -> Verification -> Vetting -> Enrolment
-
-Credentialling::
-	This section explains how end users will be issued a digital credential that represents their vetted and registered identity.
-	Issuance -> Maintenance -> Revokation
-
-Authentication::
-	This section explains how relying parties will authenticate an end user who asserts possession of a YuTru identity.
-	Assertion -> Verification -> Authentication
-
-Authorisation::
-	This section explains how participating entities will authorise an end user to transact.
-	Eligibility -> Role -> Risk Assessment -> Data Minimisation
-
-Maintenance::
-	Maintenance
-	
-
-Redress::
-
-
-Recovery::
-
-
-Assessments::
-
-
-Audits::
-
-
-Support::
-
-
-Updates::
--------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
-=========================================================================================================================
 # Introduction
 =========================================================================================================================
-This document explains the structure and purpose of each section in the "Scheme Rules" document.
-This document forms a 'roadmap' from which to navigate the "Scheme Rules" document.
-
-The purpose of these scheme rules is:
-(a) to promote a consistent method for the digital identiciation and verification of end users in the financial system in Papua New Guinea;
-(b) to maximise the data interoperability among participating entity electronic systems; and
-(c) to promote efficiency in the economy by enabling end users to electronically register their identity and transact using that identity.
-
-
-
-
-
-
-
-
-
---- end of document ---
+This document explains the forms that will be used to memorliase the structure and content of the YuTru digital trust framework.
