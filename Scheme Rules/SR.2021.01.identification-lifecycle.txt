@@ -1,0 +1,38 @@
+=========================================================================================================================
+# Registration
+=========================================================================================================================
+	This section explains how end users will be registered by participating entities.
+	Resolution -> Validation -> Verification -> Vetting -> Enrolment
+
+Credentialling:
+	This section explains how end users will be issued a digital credential that represents their vetted and registered identity.
+	Issuance -> Maintenance -> Revokation
+
+Authentication:
+	This section explains how relying parties will authenticate an end user who asserts possession of a YuTru identity.
+	Assertion -> Verification -> Authentication
+
+Authorisation:
+	This section explains how participating entities will authorise an end user to transact.
+	Eligibility -> Role -> Risk Assessment -> Data Minimisation
+
+Maintenance:
+	Maintenance
+	
+
+Redress:
+
+
+Recovery:
+
+
+Assessments:
+
+
+Audits:
+
+
+Support:
+
+
+Updates:
