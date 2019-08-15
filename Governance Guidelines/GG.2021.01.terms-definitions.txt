@@ -21,11 +21,6 @@ Papua New Guinea
 
 
 
-
-
-
-
-
 =========================================================================================================================
 # Header
 =========================================================================================================================
@@ -43,11 +38,6 @@ Papua New Guinea
 │Audience:                   Private                                    │
 │Status:                     Draft                                      │
 └───────────────────────────────────────────────────────────────────────┘
-
-
-
-
-
 
 
 
@@ -91,11 +81,6 @@ Each scheme document will be given one and only one of the following statuses:
 
 
 
-
-
-
-
-
 ==========================================================================================================================
 ## Section 2: Level of Requirements
 ==========================================================================================================================
@@ -119,11 +104,6 @@ This word, or the corresponding adjective "RECOMMENDED", mean that there may exi
 
 ### SHOULD NOT
 This phrase, or the phrase "NOT RECOMMENDED", mean that there may exist valid reasons in particular circumstances when the particular behaviour is acceptable or even useful in the Scheme, but the full implications should be understood, and the case carefully weighed before implementing any behaviour described with this label.
-
-
-
-
-
 
 
 
