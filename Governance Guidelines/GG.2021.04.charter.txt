@@ -21,11 +21,6 @@ Papua New Guinea
 
 
 
-
-
-
-
-
 =========================================================================================================================
 # Header
 =========================================================================================================================
@@ -48,11 +43,6 @@ Papua New Guinea
 
 
 
-
-
-
-
-
 =========================================================================================================================
 # Introduction
 =========================================================================================================================
@@ -66,22 +56,12 @@ This document, the ‘Scheme Charter’ sets out the vision, mission, strategic 
 
 
 
-
-
-
-
-
  
 =========================================================================================================================
 # Vision
 =========================================================================================================================
 The YuTru scheme envisions that:
 All people have access to an affordable digital identity, that is under their control, and enables them to participate freely, fully, and safely in online social, political, and commercial transactions.
-
-
-
-
-
 
 
 
@@ -99,11 +79,6 @@ To realise this vision, the Scheme will:
 
 
 
-
-
-
-
-
 =========================================================================================================================
 # Strategic Objectives
 =========================================================================================================================
@@ -113,11 +88,6 @@ To realise this vision, the Scheme will:
 4.	To formalise referrals from ‘known’ customers, as a legitimate basis for establishing digital identity, particularly for people who do not have documentary evidence of their legal identity.
 5.	To provide a valid and reliable digital identity service that can: register identities based on verifiable attribute claims; authenticate digital identities; enable the easy exchange of identity information; and authorise access to services. 
 6.	To inform the general public about digital identification, how to manage a digital identity securely, and how to use it responsibly.
-
-
-
-
-
 
 
 
@@ -176,11 +146,6 @@ The Scheme will also seek and consider the views of civil society and expert opi
 
 
 
-
-
-
-
-
 =========================================================================================================================
 # Outcomes
 =========================================================================================================================
@@ -191,11 +156,6 @@ It will do this by:
 3.	Making it possible for people who have a digital identity to vouch for others who do not. 
 4.	Using the latest multi-modal  and behavioural biometric methods to provide for reliability and security.
 5.	Providing for the interoperability of digital identification services and data.
-
-
-
-
-
 
 
 
