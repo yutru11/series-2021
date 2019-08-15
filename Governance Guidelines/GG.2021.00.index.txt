@@ -54,16 +54,11 @@ Papua New Guinea
 =========================================================================================================================
 # Table of Contents
 =========================================================================================================================
-## POLICY::
-	Scheme Charter								PNG-DTF-012, Part I, Section 1
-	Scheme Roles: Internal, External				PNG-DTF-013, Part I, Section 2
-	Terms and Definitions						PNG-DTF-014, Part I, Section 3
-	Intellectual Property Rights and Definitions		PNG-DTF-015, Part I, Section 4
-
-## ENGAGEMENT::
-	Confidentiality Agreement					PNG-DTF-016, Part I, Section 5
-	Member Engagement Method						PNG-DTF-017, Part I, Section 6
-	Member Agreement: 							PNG-DTF-018, Part I, Section 7
+Subcommittee Request
+Subcommittee Response
+Draft Rule
+Interim Rule
+Final Rule
 -------------------------------------------------------------------------------------------------------------------------
 
 
@@ -78,7 +73,5 @@ Papua New Guinea
 =========================================================================================================================
 # Introduction
 =========================================================================================================================
-This document explains the structure and purpose of each section in the "Governance Guidelines" document.
-This document forms a 'roadmap' from which to navigate the "Governance Guidelines" document.
-
-The purpose of these governance guidelines is to set out how the scheme's operation will be governed.
+This document explains the purpose and structure of each message that will pass between internal organs of the trust framework operator.
+The document will use terminology defined in [GG.2021.01] and reference roles defined in [GG.2021.02].

@@ -36,7 +36,7 @@ Papua New Guinea
 └───────────────────────────────────────────────────────────────────────┘
 ┌───────────────────────────────────────────────────────────────────────┐
 │Document Name:	         Terms and Definitions                      │
-│Reference Number:           GG2021.01                                  │
+│Reference Number:           GG.2021.01                                  │
 │Version:                    1                                          │
 │Revision:                   A                                          │
 │Set:                        Governance                                 │
@@ -63,24 +63,33 @@ Papua New Guinea
 Each document will be labelled with the following dimensions:
 
 ### Document Reference Number
-A unique number to refer to the document by, prefixed by: PNG-DTF.
+A unique number to refer to the document by, prefixed by: GG.YYYY, where YYYY is the Gregorian year represented in four digits.
+	e.g. GG.2021.01 represents this document in the 2021 series of governance guidelines.
 
 ### Version
 An integer padded to with zeroes to three decimal places representing the version of the document.
+	e.g. Version: 2, for the second major revision to the document. 
+A major revision is often related to a change to the structure of the document.
 
 ### Revision
-An alphabetic character representing the number of revisions of the current version. 
+An alphabetic character representing the number of revisions of the current version.
+	e.g. Revision: C, for the third minor revision of the current version. 
+A minor version is often related to a change of content whilst the structure of the document remains unchanged.
 
 ### Audience
 Each scheme document will have one and only one audience designation: 
 	Project | Governance | Operating
 
 ### Scope
-
+	Public | Private | Confidential
 
 ###  Status
 Each scheme document will be given one and only one of the following statuses: 
 	Draft | Initial | Circulation | Review | Final
+
+
+
+
 
 
 
