@@ -1,0 +1,230 @@
+=========================================================================================================================
+# Copyright
+=========================================================================================================================
+© 2018- Digital Identification Bureau Limited.  All rights reserved.
+
+The “YuTru” brand including the “YuTru” circles and lines logo are trademarks of the Digital Identification Bureau Limited trading in the name YuTru. 
+
+The official website is: https://yutru.org.
+
+No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the written permission of the Digital Identification Bureau Limited, except in the case of brief quotations embodied in critical reviews and certain other non-commercial uses permitted by copyright law.
+
+For permission requests or enquiries, write to the Digital Identification Bureau Limited, addressed ‘Attention: Chairman,’ at the address below:
+C/- Mr Steve Patrick
+Dentons PNG
+Level 5, BSP Haus, Harbour City
+Konedobu, National Capital District
+Papua New Guinea
+-------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+=========================================================================================================================
+# Header
+=========================================================================================================================
+┌───────────────────────────────────────────────────────────────────────┐
+│                                                                       │
+│               YuTru: Scheme Documentation, Series 2021                │
+│                                                                       │
+└───────────────────────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────────────────────┐
+│Document Name:	         Terms and Definitions                      │
+│Reference Number:           GG.2021.01                                  │
+│Version:                    1                                          │
+│Revision:                   A                                          │
+│Set:                        Governance                                 │
+│Audience:                   Private                                    │
+│Status:                     Draft                                      │
+└───────────────────────────────────────────────────────────────────────┘
+
+
+
+
+
+
+=========================================================================================================================
+# Introduction
+=========================================================================================================================
+=========================================================================================================================
+## Section 1: Document Status Values
+=========================================================================================================================
+Each document will be labelled with the following dimensions:
+
+### Document Reference Number
+A unique number to refer to the document by, prefixed by: GG.YYYY, where YYYY is the Gregorian year represented in four digits.
+	e.g. GG.2021.01 represents this document in the 2021 series of governance guidelines.
+
+### Version
+An integer padded to with zeroes to three decimal places representing the version of the document.
+	e.g. Version: 2, for the second major revision to the document. 
+A major revision is often related to a change to the structure of the document.
+
+### Revision
+An alphabetic character representing the number of revisions of the current version.
+	e.g. Revision: C, for the third minor revision of the current version. 
+A minor version is often related to a change of content whilst the structure of the document remains unchanged.
+
+### Audience
+Each scheme document will have one and only one audience designation: 
+	Project | Governance | Operating
+
+### Scope
+	Public | Private | Confidential
+
+###  Status
+Each scheme document will be given one and only one of the following statuses: 
+	Draft | Initial | Circulation | Review | Final
+
+
+
+
+
+==========================================================================================================================
+## Section 2: Level of Requirements
+==========================================================================================================================
+The following definitions are interpreted according to the definitions in RFC-2119 [https://www.ietf.org/rfc/rfc2119.txt]:
+
+### MAY
+This word, or the corresponding adjective "OPTIONAL", mean that an item is discretional.  One participating entity may choose to include the item because they deem it necessary or because the participating entity asserts that it enhances their scheme implementation, while another participating entity may omit the same item. 
+
+A scheme implementation by a participating entity which does not include a particular option MUST be prepared to interoperate with other implementations which do include the option, though perhaps with reduced functionality.  
+
+In the same vane an implementation which does include a particular option MUST be prepared to interoperate with another implementation which does not include the option (except, of course, for the feature the option provides.)
+
+### MUST
+This word, or the terms "REQUIRED" or "SHALL", mean that the definition is an absolute requirement of the Scheme. 
+
+### MUST NOT	
+This phrase, or the phrase "SHALL NOT", mean that the definition is an absolute prohibition of the Scheme.
+
+### SHOULD	
+This word, or the corresponding adjective "RECOMMENDED", mean that there may exist valid reasons in particular circumstances to ignore a particular item of the Scheme, but the full implications must be understood and carefully weighed before choosing a different course.
+
+### SHOULD NOT
+This phrase, or the phrase "NOT RECOMMENDED", mean that there may exist valid reasons in particular circumstances when the particular behaviour is acceptable or even useful in the Scheme, but the full implications should be understood, and the case carefully weighed before implementing any behaviour described with this label.
+
+
+
+
+
+==========================================================================================================================
+## Section 3: Terms and Definitions
+==========================================================================================================================
+In this section, unless the contrary intention is stated:
+
+Activate: 
+Activation means the method by which a registered entity joins a subcommittee within the Scheme or is engaged to help produce a subcommittee output. Activation is a requirement of all founders, members, and participants in Scheme subcommittees. 
+
+Attribute Provider:	
+An Attribute Provider (AP) means a participating entity that is responsible for management of attributes linked to an end user’s base identity and manages end user access to resources based on those attributes.
+
+Budget Request:
+Issued by the GC of the BD, before a PG or WG can be deployed.
+
+Charter:
+Issued by the GC for a WG to begin work.
+
+Contribute
+To submit material to a subcommittee during an activity of the subcommittee or in the production of an output of the subcommittee. 
+Submissions of material can be in writing, including by way of an electronic medium. Submissions can be orally, only if they are memorialised in the subcommittee’s minutes specifically identifying the submission and attributing them to a member or participant.
+
+Credential Provider:
+A Credential Provider (CP) is a participating entity that issues credentials to registered end users, for the purposes of transacting securely with them, offering them resources (information, goods, and/or services) on the basis of authorisations their identity possesses. A CP forms part of the YuTru digital trust framework and must be a licensed financial institution in PNG. 
+
+Delegate:
+A natural person, who is also is an officer (which includes a director or employee) of a licensed financial institution appointed by the organisation to represent the organisation to the Scheme.  A delegate participates in the subcommittee activities and contributes material in the production of subcommittee outputs.  A delegate will be the single point of contact between the Scheme and a member or participant institution.
+
+Discussion Request:
+Issued by the GC for a DG to be started up.
+
+Draft Recommendation:
+The response provided by a WG to the GC, in response to the charter it received, and the work done.
+
+Subscription Agreement:
+The legal document that underpins membership and/or participation by an individual or organisation in the Scheme. Execution of an engagement contract and doing all things necessary to comply with the contract’s terms and conditions represents the registration of a Scheme member or participant.
+
+Final Recommendation:
+Once a ballot is held on a draft recommendation and it passes, it becomes a final recommendation issued by the GC to the SC.
+
+Governance Council:	
+The Governance Council (GC) is an organ of the trust framework operator responsible for governing the Scheme. Functions of the GC include setting policy, engaging members, establishing security requirements, adopting standards, and setting technical specifications. The GC is also responsible for managing the discussion group, project group, and working group subcommittees. 
+The GC comprises at least four members, two permanent and two temporary members: The Scheme commissioner (permanent, a representative from the board of directors of the Digital Identification Bureau Ltd. (permanent), a delegate from the relevant project or working group, and a delegate picked from among the Scheme delegates (one who is not presently working on a project group or working group).
+
+Governance Guidelines:
+The body of documentation that will specify the way in which the YuTru digital trust framework will be governed by the TFO and its internal organs.
+
+Intellectual Property:
+Intellectual Property (IP) is defined as, but not limited to, material representing:
+	identity management procedures, 
+	information management practices, 
+	computer security protocols,
+	test tools and toolkits, software development kits, software interfaces,
+	source code,
+	online help documentation, reference implementations, 
+	prototypes, software, software protocols, 
+	network and system designs and architectures,
+	disaster recovery and business continuity protocols,
+	data formats and technical specifications, 
+	internal policy documents, 
+	business operations, 
+	practices for organisational lines-of-defence risk management, 
+	administrative back-office procedures, 
+	current and future legal and commercial contractual agreements, 
+	arrangements with customers, employees, service providers, and vendors,
+	trade secrets and proprietary information, 
+	technical information, 
+	financial and accounting information, 
+	procedures and other internal reference manuals, 
+	diagrams, photographs, and marketing collateral,
+	internal reports, facts, and charts, 
+	concepts (including those not in a material form), and
+	all other information, documents and things; as disclosed by a Scheme member or participant during the course of Scheme subcommittee activities and the production of subcommittee outputs.
+
+Licensed Financial Institution:
+A licensed financial institution is a corporation licensed as a financial institution under the Banks and Financial Institutions Act (2000). All members in the YuTru scheme must be licensed financial institutions in PNG, although not all licensed financial institutions may necessarily join the scheme. An LFI may register in the Scheme as a member or as a participant. 
+
+Material:
+Material is information contributed to the Scheme. Material may or may not represent IP or have associated IPR. All IP is considered material, but not all material contains IP.
+
+Member:
+Members are registered in the Scheme and are distinct from Participants. All members are a PE of one or more forms: AP, CP, RP. A PE must be a member of the Scheme. A participant in the Scheme need not be a member.
+
+Natural Person:
+An individual human being; or ‘in jurisprudence, a natural person is a person (in legal meaning, i.e., one who has its own legal personality) that is an individual human being, as opposed to a legal person, which may be a private (i.e., business entity or non-governmental organization) or public (i.e., government) organization.’   
+
+Participant:
+Participants are registered in the Scheme and distinct from members. Participants may only be involved in the DGs of the Scheme. A Participant may be an LFI that is not a member of the Scheme. A Participant is different from a PE in that a Participant cannot perform any of the PE roles in the Scheme. A Participant can only make contributions to DG subcommittee activities and outputs.
+
+Participating Entities:
+Participating entities (PE) are members of the Scheme actively involved in the governance and/or operation of the Scheme. PEs are, specifically, one or more of the following: credential providers (CP), attribute providers (AP), or relying parties (RP). A PE is distinct from a participant in that a PE is a Scheme member and a participant is not a PE.
+A PE must be a member of the Scheme. Members are registered in the Scheme by executing an Engagement Contract. The contract will be between the DIBL and the PE and will rely on a series of Scheme documents to encompass the responsibilities of the contract parties. After registering in the Scheme, a PE will remain in the Scheme for a minimum period of two years.
+
+Project Request:
+Issued by the GC for a PG to be started up.
+
+Register:
+To execute an engagement contract and do all things necessary to comply with the terms and conditions of the engagement contract. Registration is a requirement of all founders, members, and participants in the Scheme.
+
+Relying Party:
+A Relying Party (RP) is a participating entity that depends on the EU’s fundamental identity or on linked attributes, before they grant the EU access to resources (information, goods and/or services).  
+
+Scheme Amendment:
+The change made to the scheme operating rules by the SC to implement a final recommendation made by the GC.
+
+Scheme Commissioner:
+The Scheme Commissioner (SC) will have overall responsibility for governance (through the GC) and operation (implementing and monitoring compliance with the SR) of the Scheme. The SC is the person charged with responsibility for overseeing  
+
+Scheme Rules:
+The body of documentation that will guide operation of the YuTru digital trust framework among LFIs in PNG.  The Scheme Rules (SR) will contain rules, standards, specifications, and agreements that will prescribe how digital identification will be managed and how interoperability of digital identification among LFIs will function.
+
+Subcommittee:
+Any or all of the following internal organs of the TFO: discussion group (DG), project group (PG), or working group (WG).
+
+Trust Framework Operator:
+The TFO is the Digital Identification Bureau Limited, a corporation formed under the Companies Act (1997) to govern and operate the ‘YuTru’ digital trust framework. Governance and operation will be in accordance documented rules and processes, agreed and adopted technical standards, multi-lateral agreements, and common terms and definitions. 
+The aims of the TFO are to expand financial inclusion, harmonise digital identification among LFIs, formalise a system of vouching from known bank customers to new unknown customers, provide a reliable identity lookup and validation service, and to empower end users with better knowledge about digital identification and how to use it safely for better economic outcomes.
+
+YuTru:
+The commercial trading name given to the private-sector digital trust framework to harmonise digital identification practices among licensed financial institutions in PNG. The business registration number is: 6-241426.
