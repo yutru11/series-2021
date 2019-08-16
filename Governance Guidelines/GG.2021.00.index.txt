@@ -57,8 +57,3 @@ Papua New Guinea
 
 
 
-=========================================================================================================================
-# Introduction
-=========================================================================================================================
-This document explains the purpose and structure of each message that will pass between internal organs of the trust framework operator.
-The document will use terminology defined in [GG.2021.01] and reference roles defined in [GG.2021.02].

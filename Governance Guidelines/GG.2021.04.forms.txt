@@ -44,26 +44,18 @@ Papua New Guinea
 
 
 =========================================================================================================================
-## Table of Contents
+# Introduction
 =========================================================================================================================
+This document explains the forms that will be used to memorialise the structure and content of the YuTru digital trust framework.
+
 Subcommittee Request
 Subcommittee Response
 Draft Rule
 Interim Rule
 Final Rule
-
-
-
-
 
 =========================================================================================================================
 # Introduction
 =========================================================================================================================
-This document explains the forms that will be used to memorliase the structure and content of the YuTru digital trust framework.
-
-
-Subcommittee Request
-Subcommittee Response
-Draft Rule
-Interim Rule
-Final Rule
+This document explains the purpose and structure of each message that will pass between internal organs of the trust framework operator.
+The document will use terminology defined in "Terms and Definitions" and refer to roles defined in [Roles]

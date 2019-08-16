@@ -156,7 +156,7 @@ Governance Guidelines:
 The body of documentation that will specify the way in which the YuTru digital trust framework will be governed by the TFO and its internal organs.
 
 Intellectual Property:
-Intellectual Property (IP) is defined as, but not limited to, material representing:
+Intellectual Property (IP) is defined as, but not limited to, contributed material representing:
 	identity management procedures, 
 	information management practices, 
 	computer security protocols,
@@ -228,3 +228,255 @@ The aims of the TFO are to expand financial inclusion, harmonise digital identif
 
 YuTru:
 The commercial trading name given to the private-sector digital trust framework to harmonise digital identification practices among licensed financial institutions in PNG. The business registration number is: 6-241426.
+
+Acceptable Risk:
+A risk that is understood by a system’s user, operator, owner, or accreditor. A risk is acceptable when the cost or difficulty implementing a countermeasure for the respective vulnerability is greater than the loss threatened by exposure to the risk.
+
+Access:
+The capability and means to communicate or interact with a system, or to use resources of a system, or to acquire knowledge about the information in a system (p. 9, Shirey 2007).
+
+Access Control List:
+A mechanism to implement access control for a resource by listing the identities (subjects) that are permitted to access a resource (object) and what processing operations can be performed.  An access control list represents a list of the subjects and the access mode by which the subjects can access an object.  Multiple access control lists can be represented side-by-side to form an access control matrix, where one column represents an access control list for a single ‘object’, and each row represents an access profile for a single ‘subject’ (pp. 10-11, Shirey 2007).
+
+Access List:
+A register of natural persons who are authorised to enter a secure and controlled area.
+
+Access Mode:
+One or more of the following processing operations: read, write, append, or execute; that a subject can perform on an object within an information system.
+
+Accountability:
+The attribute of an information system that guarantees that the operations performed by an entity in the system may be uniquely traced back to that entity, which can then be held responsible for its actions (p. 12, Shirey 2007).
+
+Anonymous:
+An interaction structured in such a manner so that the data collected is insufficient to infer the identity of the end user involved in the interaction. Additionally, the data collected should be insufficient to allow multiple interactions with an end user to be joined together to reveal patterns of behaviour of an end user, which in turn might reveal their identity.
+
+API:
+Application programming interface is part of a computer program that can be access in a predictable way directly from another computer program. Access may take place via a local area network connection or across the global Internet. APIs are used to connect disparate pieces of computer software together in a loose collection of cooperating computing components. Some well-known publicly-accessible APIs include those provided by Google, Facebook, and Twitter.
+
+Application:
+Program	A computer program that provides functionality directly to a natural person.  Application programs are distinct from system programs that provides functionality to other system programs or application programs.
+
+Assertion:
+A claim made by an entity about its identity or identity attributes without accompanying evidence, or the act of making such a statement.
+
+Asset:
+Something of value to an individual or organisation.  An asset can also be referred to as a ‘resource’.
+
+Assurance:
+(a)	An attribute of an information system that provides grounds for having confidence that the system operates in such a manner that the system security policy can be considered enforced.
+(b)	A procedure that ensures a system is developed and operated as intended by the system’s security policy.
+
+Assurance Level:
+‘A rank on a hierarchical scale that judges the confidence someone can have that a mechanism adequately fulfils stated security requirements.’ (p. 20, Shirey 2007).
+
+Asymmetric Key Cryptography:
+Also known as public key cryptography, uses public and private keys to encrypt and decrypt data. The public and private keys are large numbers that are linked together by a provable mathematical relationship. Possession of the public key proves ownership of the linked private key. 
+The private key is used to encrypt data and is kept secret. The public key is made freely available and is used to decrypt data. Decryption of the data with the public key proves unequivocally that the owner of the corresponding private key (the secret one) was the entity that encrypted the data. 
+Numerous Internet-based communication protocols depend on asymmetric key cryptography for encryption such as: SSH, S/MIME, OpenPGP, and SSL/TLS.
+
+Attack:
+An intentional action by an entity (attacker) to evade a system’s security measures and which violates the system’s security policy.  Attacks can be passive or active.  An active attack attempts to change system resources or how they function.  A passive attack only attempts to discover information in a system without altering resources in the system (pp. 21-22, Shirey 2007).
+
+Attack Potential:
+The perceived potential for a successful attack, should an attack be made, described in terms of an attacker’s expertise, resources, and motives (ISO/IEC 15408:2005).
+
+Authentication:
+‘The process or action of verifying the identity of an end user or system’ or process, to a certain degree of confidence. 
+Authentication Factor:
+A piece of information used to authenticate or validate the identity of an entity. Authentication factors fall into four categories: something you know (e.g. a PIN), something you do (e.g. a particular place at which you regularly transact), something you are (e.g. a 3D face scan), and something you have (e.g. a mobile handset).
+
+Authorisation:
+‘Authorization is a security mechanism used to determine user/client privileges or access levels related to system resources, including computer programs, files, services, data and application features. Authorization is normally preceded by authentication of user identity verification.’ 
+
+Awareness-Detection-Prevention-Response:
+The four types of security solution to thwart computer security attacks are: awareness, detection, prevention, and response solutions.
+
+Challenge:
+A mechanism by which an entity is asked to authenticate to establish its identity and to determine what authorisations the identity possesses.
+
+Claim:
+See Assertion.
+
+Confidentiality:
+‘The property that data is not disclosed to system entities unless they have been authorized to know the data’ or ‘the property that information is not made available or disclosed to unauthorized individuals, entities, or processes. (Shirey 2007).
+
+Connectivity:
+The property of a target of evaluation which allows interaction with information technology entities external to the target, including the exchange of data by wire or wireless means.
+
+Countermeasure:
+An action, device, procedure, or technique that reduces a threat, a vulnerability, or an attack by eliminating or preventing it, by minimizing the harm it can cause, or by discovering and reporting it so that corrective action can be taken.
+
+Credential:
+An object or data structure, that authoritatively represents the link between an end user identity – and optionally, additional identity attribute - and a unit of authentication information (i.e. an authenticator), that is held by and within the control of the end user (World Bank 2018). A credential is presented to allow validation and verification of an asserted identity by an authority when an end user attempts to access a controlled resource.
+
+Cryptanalysis:
+‘The mathematical science that deals with analysis of a cryptographic system to gain knowledge needed to break or circumvent the protection that the system is designed to provide.’ (p. 86, Shirey 2007).
+
+Cryptographic Module:
+‘A set of hardware, software, firmware, or some combination thereof that implements cryptographic logic or processes, including cryptographic algorithms, and is contained within the module’s cryptographic boundary”, which is an explicitly defined contiguous perimeter that establishes the physical bounds of the module.’
+
+Cryptographic Token:
+‘A portable, user-controlled, physical device (e.g., smartcard) used to store cryptographic information and possibly also perform cryptographic functions.’ (Shirey 2007).
+Tokens are representations of an authorisation given out when an end user authenticates themselves. A token can be held in software or hardware. Tokens are also used to prove an authentication factor, in response to a request for an end user to authenticate themselves. Software tokens provide the advantages of multi-factor authentication while simplifying and lowering the cost of distribution.
+An example of a software token might be the response from a computer server to an end user, upon successfully authenticating with the correct username and password. The software token can then be passed along by the end user (instead of repeatedly entering a username and password) to other services and systems, usually for a specific period of time, to prove they are authorised to access the system or service. 
+An example of a hardware security token (sometimes called an authentication token) is a small hardware device that an end user carries to authorize access to resources. The hardware may be in the form of a smart card or may be embedded in a commonly used object such as a key fob or wristband.
+
+Cryptography:
+‘The mathematical science that deals with transforming data to render its meaning unintelligible (i.e., to hide its semantic content), prevent its undetected alteration, or prevent its unauthorized use. If the transformation is reversible, cryptography also deals with restoring encrypted data to intelligible form.’ (p.89, Shirey 2007).
+
+Cryptology:
+The science of communicating in secret. Cryptology includes both disciplines: cryptography and cryptanalysis. (p.90, Shirey 2007).
+
+Cyclic Redundancy Check (CRC):
+A type of checksum algorithm that is not a cryptographic function but is used to implement data integrity service where accidental changes to data are expected. A CRC is used in the structure of credit card numbers and shipping container numbers and the algorithms for these CRC’s are open standards.
+
+De-duplication:
+The techniques used to identify duplicate identity data. Often this is conducted using biometric signatures to identify false identity claims at the time of enrolment of an individual.
+
+Digital Document:
+‘An electronic data object that represents information originally written in a non-electronic, non-magnetic medium (usually ink on paper) or is an analogue of a document of that type.’ (p. 102, Shirey 2007).
+
+Digital Identity:
+‘A set of electronically captured and stored attributes and credentials that can uniquely identify a person.’ (p. v, World Bank 2018).
+
+Digital Signature:
+‘A value computed with a cryptographic algorithm and associated with a data object in such a way that any recipient of the data can use the signature to verify the data’s origin and integrity.’ (p.102, Shirey 2007).
+
+Documentation:
+‘An identity document (also called a piece of identification or ID, or colloquially as papers) is any document which may be used to prove a person’s identity. If issued in a small, standard credit card size form, it might be called an identity card (IC), ID card, or citizen card.’ 
+
+Domain:
+A set of resources that exist in the same security context and share protection from a single, common, continuous security boundary.
+
+E-commerce:
+Electronic Commerce (e-Commerce) is ‘business conducted through paperless exchanges of information, using electronic data interchange, electronic funds transfer (EFT), electronic mail, computer bulletin boards, facsimile, and other paperless technologies.’ (p. 115, Shirey 2007).
+
+Element:
+An atomic or indivisible requirement of a security protocol.
+
+Enclave:
+See Domain
+
+Encryption:
+‘Cryptographic transformation of data (called “plain text”) into a different form (called “cipher text”) that conceals the data’s original meaning and prevents the original form from being used. The corresponding reverse process is “decryption”, a transformation that restores encrypted data to its original form.’ (p. 118, Shirey 2007)
+
+Enrolment:
+See Registration.
+
+Entity:
+Something that has a separate and distinct existence, and which can be identified in a given environment or context.
+
+Evidence:
+Information which can be used by an authority to assess the validity and/or correctness of a claim.
+
+Expire:
+When something ceases to be valid, i.e. becomes invalid, e.g. a credential, because its intended lifespan has been exceeded.
+
+Exposure:
+The action of a threat whereby sensitive data is made available to an unauthorized entity. Includes the following sub-actions: deliberate exposure, scavenging, human error, and system failure.
+
+Human User:
+Any natural person that interacts with a target of evaluation in a security context.
+
+Identification:
+The process of asserting a claim about identity and identity-related attributes. Those assertions need to be verified (usually by checking credentials presented against information vetted and recorded in the registration process) as authentic before authorisation can begin. Claims about identity can be made by a person (natural or legal), a computer process or service, or a device.
+
+Identifiers:
+Identifiers are the numbers or other non-attribute values generated and assigned to an identity as a method of referencing specific end users or groups of end users within an identity context.
+
+Identity:
+A combination of identity attributes which uniquely distinguishes a person (natural or legal) within a specific context (DTA 2018).
+
+Identity Assurance:
+The ability to determine with some level of certainty (a level of assurance) that the identity or identity attributes claimed by an end user are the claimant’s true identity or identity attributes.
+
+Identity Transaction:
+‘Any transaction involving two or more participants which involves establishing, verifying, issuing, asserting, revoking, communicating, or relying on identity information.’ (UNCITRAL 2017, p. 7, para. 34). 
+
+Informal:
+‘Expressed in natural language’ (ISO/IEC 15408:2005).
+
+Integrity:
+‘The property that data has not been changed, destroyed, or lost in an unauthorized or accidental manner.’ (Shirey 2007).
+
+Interoperability:
+‘The ability of information systems and procedures to share or authenticate data and enable the exchange of information and knowledge among them.’ (World Bank 2017).
+
+JSON:
+JavaScript Object Notation is a simple text-based data-interchange format.  It is easy for humans to read and write, as well as easy for computers to understand and output.  JSON is language-independent but uses a layout which is readily recognisable by most computer programmers familiar with the C-family of languages (i.e. C, C++, C#, Java, JavaScript, Perl, and Python.  These features make JSON a popular data-interchange language. 
+
+Legal Identity:
+‘An association, corporation, partnership, proprietorship, trust, or individual that has legal standing in the eyes of the law. A legal entity has legal capacity to enter into agreements or contracts, assume obligations, incur and pay debts, sue and be sued in its own rights, and to be held responsible for its actions.’ 
+
+Legal Person:
+An individual human being, a company, or other organisational entity that has legal rights and obligations in a jurisdiction.
+
+Level of Assurance:
+The degree of confidence that can be had that an identity or identity attribute claim reflects the true identity or identity attribute.
+
+Non-Repudiation:
+The inability to falsely deny involvement in an electronic communication or transaction.
+
+Privacy:
+See Confidentiality
+
+Protection Profile:
+A vendor-neutral or implementation-independent set of security requirements for a category of targets of evaluation. For example, a ‘protection profile’ might be developed for smartphone apps that contain an end user’s digital signature signing keys.
+
+Protocol:
+‘Set of rules and formats, semantic (meaning), and syntactic (format), that enable information systems to exchange information’ (World Bank 2018).
+
+Reference Monitor:
+The concept of an abstract ‘machine’ that enforces the target of evaluations access control policies and is: (i) tamper-proof, (ii) always incorporated and operational, and (iii) can be transparently assessed and tested.
+
+Registration:
+The process of making an end user’s identity known to a credential provider, recording identity details in a computerised information system, issuing a unique identifier, linking the identity representation to the unique identifier, and issuance of a credential to represent the identity information.  Usually, registration is accompanied by claims about other identity attributes and those claims must then be validated and verified before the end user can be considered enrolled.
+
+Resources:
+Information, systems, goods, or services to which access is controlled and dependant on the granting of authorisation linked to a valid and verified identity.
+
+Revocation:
+‘The process of prematurely ending the operational period of a certificate or credential effective at a specific date and time’ (World Bank 2018).
+
+Security Audit:
+‘An independent review and examination of a system's records and activities to determine the adequacy of system controls, ensure compliance with established security policy and procedures, detect breaches in security services, and recommend any changes that are indicated for countermeasures.’ (p. 265, Shirey 2007).
+
+Security Token:
+See Credential.
+
+Semiformal:
+Expressed in language which uses a limited vocabulary and according to a defined grammar. Semiformal expressions are often used to describe security and system requirements
+
+System:
+A specific IT instance which has a particular and operational environment. For example, a web-based application’s web server could be considered a single ‘system’, the application could be considered another, and the networking subsystem of the server yet another.
+
+System Programs:
+A computer program that provides functionality to other system programs or an application program. System programs are distinct from application programs that provide functionality directly to a natural person.
+
+System Resource:
+‘Data contained in an information system; or a service provided by a system; or a system capacity, such as processing power or communication bandwidth; or an item of system equipment (i.e. hardware, firmware, software, or documentation); or a facility that houses system operations and equipment.’ (pp. 298-299, Shirey 2007).
+
+Threat:
+Something that could cause harm to a resource. A threat can be accidental or intentional in nature.
+
+TOE:
+Target of Evaluation (TOE) refers to an IT system, service, product, or physical object which is the focus of a systematic security evaluation. Examples of TOEs include: applications, a distributed system, a computer network, or an operating system.
+
+URI:
+‘A type of formatted identifier (Berners-Lee et al. 2005) that encapsulates the name of an Internet object, and labels it with an identification of the name space, thus producing a member of the universal set of names in registered name spaces and of addresses referring to registered protocols or name spaces.’ (p. 326 Shirey 2007).  
+Internet Standard 66 (STD 66, which maps to RFC 3986 or Berners-Lee et al. 2005) recommends: Future specifications and related documentation should use the general term "URI" rather than the more restrictive terms "URL" and "URN".  Another acronym for URI is IRI or Internet Resource Identifier.
+Validated	The degree to which a claim made about an identity matches the evidence presented for the claim. Something that is valid differs from something that is verified, in that, validity asserts that the evidence strongly matches the claim, but something verified asserts that the claim made is the true nature of the thing which the claim represents.
+For example: a driver’s license presented as evidence of a claimed name and date of birth of an end user, may match the claimed name and date of birth would be, therefore, considered valid. But the driver’s license may not belong to the end user and the end user may have been using the name as an alias – the claim is unverifiable, but valid.
+
+Verified:
+The degree to which end user identity claim matches the true nature of the attributes which are claimed. Something that is verified differs from something that is valid, in that, verification establishes that the evidence matches the true nature of that which is evidenced, but validity asserts that an end user’s claim is supported by strong evidence of the claim.
+For example: a driver’s license presented as evidence of a claimed name and date of birth of an end user, may have expired and thus be invalid, but may be verifiable as the legitimate name and date of birth of the end user that presents the license as evidence.
+
+Virus:
+A self-replicating (and usually hidden) piece of software that propagates by inserting a copy of itself into and becoming part of another program. ‘A virus cannot run by itself; it requires that its host program be run to make the virus active.’ (p. 332, Shirey 2007).
+
+Vulnerability:
+A flaw or weakness in a system that could be exploited to violate the system's security policy.  Vulnerabilities exist in three types: (a) vulnerability in design, (b) vulnerability in implementation, and (c) vulnerability in operation.
+
+XML:
+Extensible mark-up language is a text format that uses separate representations for a document’s content and its structure.
