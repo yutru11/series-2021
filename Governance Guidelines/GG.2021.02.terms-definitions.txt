@@ -1,10 +1,7 @@
 =========================================================================================================================
-# Introduction
+## Section 1: Document Attributes
 =========================================================================================================================
-=========================================================================================================================
-## Section 1: Document Status Values
-=========================================================================================================================
-Each document will be labelled with the following dimensions:
+Each scheme document will be labelled with the following attributes:
 
 ### Document Reference Number
 A unique number to refer to the document by, prefixed by: GG.YYYY, where YYYY is the Gregorian year represented in four digits.
@@ -12,7 +9,7 @@ A unique number to refer to the document by, prefixed by: GG.YYYY, where YYYY is
 
 ### Version
 An integer padded to with zeroes to three decimal places representing the version of the document.
-	e.g. Version: 2, for the second major revision to the document. 
+	e.g. Version: 002, for the second major revision to the document. 
 A major revision is often related to a change to the structure of the document.
 
 ### Revision
@@ -22,7 +19,7 @@ A minor version is often related to a change of content whilst the structure of 
 
 ### Audience
 Each scheme document will have one and only one audience designation: 
-	Project | Governance | Operating
+	Project | Governance | Operations
 
 ### Scope
 	Public | Private | Confidential
@@ -30,9 +27,6 @@ Each scheme document will have one and only one audience designation:
 ###  Status
 Each scheme document will be given one and only one of the following statuses: 
 	Draft | Initial | Circulation | Review | Final
-
-
-
 
 
 ==========================================================================================================================
@@ -60,56 +54,53 @@ This word, or the corresponding adjective "RECOMMENDED", mean that there may exi
 This phrase, or the phrase "NOT RECOMMENDED", mean that there may exist valid reasons in particular circumstances when the particular behaviour is acceptable or even useful in the Scheme, but the full implications should be understood, and the case carefully weighed before implementing any behaviour described with this label.
 
 
-
-
-
 ==========================================================================================================================
 ## Section 3: Terms and Definitions
 ==========================================================================================================================
-In this section, unless the contrary intention is stated:
+The following terms and definitions will be used in scheme documentation, unless a contrary term and definition is explained and used:
 
-Activate: 
+ACTIVATE: 
 Activation means the method by which a registered entity joins a subcommittee within the Scheme or is engaged to help produce a subcommittee output. Activation is a requirement of all founders, members, and participants in Scheme subcommittees. 
 
-Attribute Provider:	
+ATTRIBUTE PROVIDER:	
 An Attribute Provider (AP) means a participating entity that is responsible for management of attributes linked to an end user’s base identity and manages end user access to resources based on those attributes.
 
-Budget Request:
+BUDGET REQUEST:
 Issued by the GC of the BD, before a PG or WG can be deployed.
 
-Charter:
+CHARTER:
 Issued by the GC for a WG to begin work.
 
-Contribute
+CONTRIBUTE:
 To submit material to a subcommittee during an activity of the subcommittee or in the production of an output of the subcommittee. 
 Submissions of material can be in writing, including by way of an electronic medium. Submissions can be orally, only if they are memorialised in the subcommittee’s minutes specifically identifying the submission and attributing them to a member or participant.
 
-Credential Provider:
+CREDENTIAL PROVIDER:
 A Credential Provider (CP) is a participating entity that issues credentials to registered end users, for the purposes of transacting securely with them, offering them resources (information, goods, and/or services) on the basis of authorisations their identity possesses. A CP forms part of the YuTru digital trust framework and must be a licensed financial institution in PNG. 
 
-Delegate:
+DELEGATE:
 A natural person, who is also is an officer (which includes a director or employee) of a licensed financial institution appointed by the organisation to represent the organisation to the Scheme.  A delegate participates in the subcommittee activities and contributes material in the production of subcommittee outputs.  A delegate will be the single point of contact between the Scheme and a member or participant institution.
 
-Discussion Request:
-Issued by the GC for a DG to be started up.
+DISCUSSION REQUEST:
+Issued by the Governance Council for a discussion subcommittee to start up.
 
-Draft Recommendation:
+DRAFT RECOMMENDATION:
 The response provided by a WG to the GC, in response to the charter it received, and the work done.
 
-Subscription Agreement:
+SUBSCRIPTION AGREEMENT:
 The legal document that underpins membership and/or participation by an individual or organisation in the Scheme. Execution of an engagement contract and doing all things necessary to comply with the contract’s terms and conditions represents the registration of a Scheme member or participant.
 
-Final Recommendation:
+FINAL RECOMMENDATION:
 Once a ballot is held on a draft recommendation and it passes, it becomes a final recommendation issued by the GC to the SC.
 
-Governance Council:	
+GOVERNANCE COUNCIL:	
 The Governance Council (GC) is an organ of the trust framework operator responsible for governing the Scheme. Functions of the GC include setting policy, engaging members, establishing security requirements, adopting standards, and setting technical specifications. The GC is also responsible for managing the discussion group, project group, and working group subcommittees. 
 The GC comprises at least four members, two permanent and two temporary members: The Scheme commissioner (permanent, a representative from the board of directors of the Digital Identification Bureau Ltd. (permanent), a delegate from the relevant project or working group, and a delegate picked from among the Scheme delegates (one who is not presently working on a project group or working group).
 
-Governance Guidelines:
+GOVERNANCE GUIDELINES:
 The body of documentation that will specify the way in which the YuTru digital trust framework will be governed by the TFO and its internal organs.
 
-Intellectual Property:
+INTELLECTUAL PROPERTY:
 Intellectual Property (IP) is defined as, but not limited to, contributed material representing:
 	identity management procedures, 
 	information management practices, 
@@ -134,22 +125,22 @@ Intellectual Property (IP) is defined as, but not limited to, contributed materi
 	diagrams, photographs, and marketing collateral,
 	internal reports, facts, and charts, 
 	concepts (including those not in a material form), and
-	all other information, documents and things; as disclosed by a Scheme member or participant during the course of Scheme subcommittee activities and the production of subcommittee outputs.
+	all other information, documents and things; as disclosed by a scheme member during the course of Scheme subcommittee activities and the production of subcommittee outputs.
 
-Licensed Financial Institution:
+LICENSED FINANCIAL INSTITUTION:
 A licensed financial institution is a corporation licensed as a financial institution under the Banks and Financial Institutions Act (2000). All members in the YuTru scheme must be licensed financial institutions in PNG, although not all licensed financial institutions may necessarily join the scheme. An LFI may register in the Scheme as a member or as a participant. 
 
-Material:
+MATERIAL:
 Material is information contributed to the Scheme. Material may or may not represent IP or have associated IPR. All IP is considered material, but not all material contains IP.
 
-Member:
+SCHEME MEMBER:
 Members are registered in the Scheme and are distinct from Participants. All members are a PE of one or more forms: AP, CP, RP. A PE must be a member of the Scheme. A participant in the Scheme need not be a member.
 
-Natural Person:
+NATURAL PERSON:
 An individual human being; or ‘in jurisprudence, a natural person is a person (in legal meaning, i.e., one who has its own legal personality) that is an individual human being, as opposed to a legal person, which may be a private (i.e., business entity or non-governmental organization) or public (i.e., government) organization.’   
 
-Participant:
-Participants are registered in the Scheme and distinct from members. Participants may only be involved in the DGs of the Scheme. A Participant may be an LFI that is not a member of the Scheme. A Participant is different from a PE in that a Participant cannot perform any of the PE roles in the Scheme. A Participant can only make contributions to DG subcommittee activities and outputs.
+PARTICIPANT:
+Participants are registered in the scheme and distinct from members. Participants may only be involved in the DGs of the Scheme. A Participant may be an LFI that is not a member of the Scheme. A Participant is different from a PE in that a Participant cannot perform any of the PE roles in the Scheme. A Participant can only make contributions to DG subcommittee activities and outputs.
 
 Participating Entities:
 Participating entities (PE) are members of the Scheme actively involved in the governance and/or operation of the Scheme. PEs are, specifically, one or more of the following: credential providers (CP), attribute providers (AP), or relying parties (RP). A PE is distinct from a participant in that a PE is a Scheme member and a participant is not a PE.
