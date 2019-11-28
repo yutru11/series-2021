@@ -1,22 +1,43 @@
-=========================================================================================================================
-# Introduction
-=========================================================================================================================
-This document explains the structure and purpose of each section in the "Scheme Rules" document.
-This document forms a 'roadmap' from which to navigate the "Scheme Rules" document.
-
-The purpose of these scheme rules is:
-(a) to promote a consistent method for the digital identiciation and verification of end users in the financial system in Papua New Guinea;
-(b) to maximise the data interoperability among participating entity electronic systems; and
-(c) to promote efficiency in the economy by enabling end users to electronically register their identity and transact using that identity.
-
-
-
-
-
-=========================================================================================================================
 # Index
-=========================================================================================================================
-Digital Identification Lifecycle
+
+## PNG-DTF-SR-2021-001: BUSINESS RULES
+### Legal Liability
+### Data Collection
+### Data Custody
+### Data Dispoition
+### Privacy and Access
+### Internal Reviews
+### Assessments
+### Audits
+
+## PNG-DTF-SR-2021-002: OPERATIONS RULES
+### Acquisition
+### Referrals
+### Vetting
+### Assurance
+### Issuance
+### Maintenance
+### Monitoring
+### Sharing
+### Enquiry
+### Review
+### Revocation
+### Expiration
+### Renewal
+
+## PNG-DTF-SR-2021-003: TECHNICAL RULES
+### Enrolment Biometrics
+### Biometric Standards
+### De-duplication Methods
+### Third-party Verifications
+### Security Token Specification
+### Data Specifications
+### Transmission Protocols
+### Encryption Standards
+
+
+## PNG-DTF-SR-2021-004: LEGAL AND REGULATORY RULES
+
 
 
 
