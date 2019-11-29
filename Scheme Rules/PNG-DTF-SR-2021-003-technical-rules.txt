@@ -1,0 +1,9 @@
+## PNG-DTF-SR-2021-003: TECHNICAL RULES
+### Enrolment Biometrics
+### Biometric Standards
+### De-duplication Methods
+### Third-party Verifications
+### Security Token Specification
+### Data Specifications
+### Transmission Protocols
+### Encryption Standards

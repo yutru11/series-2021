@@ -1,0 +1,20 @@
+AI 	Authorised Institution
+AML 	Anti Money Laundering
+AP 	Attribute Provider
+API	Application Programming Interface
+BD 	Board of Directors
+CID	Core Identity Data
+CP	Credential Provider
+CRC 	Cyclic Redundancy Check
+GC 	Governance Council
+GG	Governance Guidelines
+GM	General Manager
+IP	Intellectual Property
+IPR 	Intellectual Property Rights
+KYC	Know Your Customer
+LFI	Licensed Financial Institution
+PE 	Participating Entity
+RP	Relying Party
+SC 	Scheme Commissioner
+SR	Scheme Rules
+TOE 	Target of Evaluation

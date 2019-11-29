@@ -1,0 +1,91 @@
+# Charter
+
+## INTRODUCTION
+YuTru holds steadfast the principles of openness, transparency and fairness in its engagement with its participants & members, other industry consortia and the broader identity and privacy community.  Unlike many other organisations in our industry, it is not required of our participants, members, nor even directors, to sign a non-disclosure agreement to YuTru.  
+
+We believe that the benefits of stating our principles explicitly like this far outweigh the occasional inconveniences: indeed, we believe that principle ought to trump convenience more often in our connected lives.
+
+We clearly state our Mission and Vision that build off the foundations of Open-Stand’s 5 principles https://open-stand.org/about-us/principles/ for standards and technology development. Those principles equally apply to YuTru's broader scope of services.
+
+The YuTru trust framework (the Scheme) will be a system of citizen digital identification supported by licensed financial institutions (LFI) in Papua New Guinea (PNG) that will improve inclusion in the country’s financial sector.  The Scheme is operated by the Digital Identification Bureau Limited (DIBL), which is owned by the PNG Digital Commerce Association Inc. (PNGDCA). 
+
+By using digital technologies rather than paper, the Scheme will make it easier and less costly for citizens to acquire a digital identity and, accordingly, for them to obtain services from the formal financial sector.
+
+Moreover, this only needs to be done once, thereby reducing costs and uncertainty for individuals and firms. People living in remote parts of the country will benefit greatly because it will be possible for them to establish who they are and conduct financial transactions over the Internet rather than making long and difficult journeys to do so in person.
+
+To achieve these ends, the Scheme will make use of some of the latest multi-modal biometric methods of identification and distributed ledger technology to allow financial institutions to interoperate. The Scheme will be an ‘open framework’, meaning that any LFI – and, in time, any organisation with a need for identifying customers - can join the Scheme, so long as they adopt the framework and abide by its technical and business rules which leads to compliance with international norms for ‘knowing their customer’ and near-universal KYC/AML rules.
+
+The Scheme’s governance and operations systems and procedures will be developed collaboratively, agreed to by its members, and formally set out in two documents: ‘Governance Guidelines’ (GG) and ‘Scheme Rules’ (SR). 
+
+This document, the ‘Scheme Charter’ sets out the vision, mission, strategic objectives, guiding principles, and outcomes of the Scheme  and is a foundational element for both current and potential members of the Scheme to be familiar with, and if the first document in the Governance Guidelines series.
+
+## VISION
+The YuTru scheme envisions that:
+All people have access to an affordable digital identity, that is under their control, and enables them to participate freely, fully, and safely in online social, political, and commercial transactions.
+
+## MISSION
+To realise this vision, the Scheme will:
+1.	Establish and operate a digital identification scheme and technology platform that is based on internationally-recognised open standards and practices for the digital identification of people and the protection of their information and privacy.
+2.	Design and use processes and technologies that best suit the local context, particularly as they pertain to the management of digital identification by people in rural and remote parts of the country.
+3.	Make agreements, specify rules, and monitor compliance, so that member organisations trust and use digital identities consistently in the interests of the communities and people they serve, as well as their own interests. 
+
+## STRATEGIC OBJECTIVES
+1.	To expand civic and economic inclusion by making it more affordable and easier for people to establish a digital identity that complies fully with Know Your Customer (KYC) rules.
+2.	To harmonise how biometric, biographic, and behavioural identity data that establish digital identity are collected, managed, and used by licensed financial institutions.
+3.	To enable persons to be identified electronically only once, which will qualify them as customers for all services offered by institutional members of the Scheme.
+4.	To formalise referrals from ‘known’ customers, as a legitimate basis for establishing digital identity, particularly for people who do not have documentary evidence of their legal identity.
+5.	To provide a valid and reliable digital identity service that can: register identities based on verifiable attribute claims; authenticate digital identities; enable the easy exchange of identity information; and authorise access to services. 
+6.	To inform the general public about digital identification, how to manage a digital identity securely, and how to use it responsibly.
+
+## PRINCIPLES
+The following principles will guide behaviour of the Scheme:
+
+### Accessibility and Diffusion
+The Scheme will endeavour to make digital identification accessible to all, especially those living in remote parts of the country.
+Travel in PNG can be time-consuming, laborious, and costly. Each stage of the identification lifecycle must be planned and executed with the geography of the country in mind and to minimise the need for people to travel.
+YuTru will endeavour to make digital identification easy to understand and use. The speed with which such technical innovations become a normal part of day-to-day social and economic transactions will depend almost entirely on their simplicity and comprehensibility. 
+The example set by YuTru may well encourage other entities and service providers to make use of YuTru standards, which will expand the use of digital identity and increase the benefits for people and society. It could also promote the development of new or improved services.
+
+### Interoperability
+The Scheme will aim to make its digital identification services as interoperable as possible - among scheme member institutions and the broader e-commerce community domestically, regionally, and abroad.
+The broader e-commerce community may be national, regional, or international.  In other words, the aim will be to make the YuTru identity one that is recognised and accepted as widely as possible. This will depend partly on the consistent application of standards and strict rules governing compliance and breach and the success of the Scheme in PNG. 
+To maximise the chances of success, the standards set will be clear and unambiguous and, wherever possible, will govern a range of contingencies, thereby reducing complexity of operation and transaction costs, for service providers and citizens.
+
+
+### Security
+The Scheme will endeavour to be ‘secure by design’, that is, in all aspects of governance and operation. It will assume that real threats exist and that malicious attacks will occur. It will therefore be vigilant in detecting them and resourceful and determined in dealing with them. In doing so, it will make use of the latest and best developments in computer security, information security, and risk management.
+
+
+### Affordability
+The Scheme’s biometric, behavioural, and distributed leger digital identification technologies will be made as cost-effective as possible. 
+Efficiency and cost-effectiveness will be central features of the design and operation of the Scheme so that costs to suppliers and customers can be minimised. 
+
+
+### Good Governance
+The Scheme will observe all the principles of good governance – that is, its systems, decision-making, and operations will be transparent and members or staff who breach its rules and regulations will be held to account.
+The Scheme will publish information on compliance and will work with the Centre for Excellence in Financial Inclusion (CEFI) to gather and publish data on the diffusion and use of digital identities. 
+The Scheme will keep secure the digital identity data that it gathers and use them strictly according to the limits set by relevant legislation and only with the explicit consent of identity holders.  
+
+
+### Full Disclosure
+The Scheme will disclose how digital identity data are used by members, which will include information on the creation, recording, updating, storing, exchange, archiving, and transmission of digital identity data. 
+To provide for secure and predictable financial services, the Scheme will specify how biometric identity data may be gathered, used, and registered; how duplicate identity registrations can be detected; means of authentication; storage formats; the communication of authorisations between Scheme members and relying entities; and how identity data should be kept up-to-date.  
+
+
+### Benefits for All
+The Scheme will benefit all PNG citizens and will be led by the private sector institutions that comprise its membership.
+The Scheme will represent the interests of its members according to the law and will take into account the policies of the Bank of PNG (BPNG) and the Centre of Excellence in Financial Inclusion (CEFI). 
+The Scheme will also seek and consider the views of civil society and expert opinion and research. It will also make sure that Scheme stakeholders affected by Scheme policy or amendments to policy will be consulted in the policy development process.
+
+## OUTCOMES
+The Scheme’s principal aim will be to provide citizens with easy access to a new form of identification that will afford them straight-forward and low-cost entry into the formal financial sector. 
+It will do this by: 
+1.	Increasing awareness of the availability, uses, and advantages of digital identity among citizens and financial institutions and organisations.
+2.	Providing a valid, reliable and efficient means for establishing digital identity that is easy for people and businesses to acquire and use, while they remain in control of their personal data. 
+3.	Making it possible for people who have a digital identity to vouch for others who do not. 
+4.	Using the latest multi-modal  and behavioural biometric methods to provide for reliability and security.
+5.	Providing for the interoperability of digital identification services and data.
+
+--- end of document ---
+
+

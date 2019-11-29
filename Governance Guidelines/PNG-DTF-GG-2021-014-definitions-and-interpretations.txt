@@ -1,0 +1,512 @@
+# Definitions and Interpretations
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+## SECTION X: DIGITAL IDENTIFICATION LIFECYCLE
+### Registration
+
+### Credentialling
+	This section explains how end users will be issued a digital credential that represents their vetted and registered identity.
+	Issuance -> Maintenance -> Revokation
+
+### Authentication
+	This section explains how relying parties will authenticate an end user who asserts possession of a YuTru identity.
+	Assertion -> Verification -> Authentication
+
+### Authorisation
+	This section explains how participating entities will authorise an end user to transact.
+	Eligibility -> Role -> Risk Assessment -> Data Minimisation
+
+### Maintenance
+	Maintenance
+	
+
+### Redress
+
+
+### Recovery
+
+
+
+### Review
+
+
+
+### Assessment
+
+
+
+### Auditing
+
+
+
+### Support
+
+
+
+### Updates
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+## SECTION X: DOCUMENT ATTRIBUTES
+Each scheme document will be labelled with the following attributes:
+
+### Document Reference Number
+A unique number to refer to the document by, prefixed by: GG.YYYY, where YYYY is the Gregorian year represented in four digits.
+	e.g. GG.2021.01 represents this document in the 2021 series of governance guidelines.
+
+### Version
+An integer padded to with zeroes to three decimal places representing the version of the document.
+	e.g. Version: 002, for the second major revision to the document. 
+A major revision is often related to a change to the structure of the document.
+
+### Revision
+An alphabetic character representing the number of revisions of the current version.
+	e.g. Revision: C, for the third minor revision of the current version. 
+A minor version is often related to a change of content whilst the structure of the document remains unchanged.
+
+### Audience
+Each scheme document will have one and only one audience designation: 
+	Project | Governance | Operations
+
+### Scope
+	Public | Private | Confidential
+
+###  Status
+Each scheme document will be given one and only one of the following statuses: 
+	Draft | Initial | Circulation | Review | Final
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+## SECTION X: LEVEL OF REQUIREMENTS
+The following definitions are interpreted according to the definitions in RFC-2119 [https://www.ietf.org/rfc/rfc2119.txt]:
+
+### MAY
+This word, or the corresponding adjective "OPTIONAL", mean that an item is discretional.  One participating entity may choose to include the item because they deem it necessary or because the participating entity asserts that it enhances their scheme implementation, while another participating entity may omit the same item. 
+
+A scheme implementation by a participating entity which does not include a particular option MUST be prepared to interoperate with other implementations which do include the option, though perhaps with reduced functionality.  
+
+In the same vane an implementation which does include a particular option MUST be prepared to interoperate with another implementation which does not include the option (except, of course, for the feature the option provides.)
+
+### MUST
+This word, or the terms "REQUIRED" or "SHALL", mean that the definition is an absolute requirement of the Scheme. 
+
+### MUST NOT	
+This phrase, or the phrase "SHALL NOT", mean that the definition is an absolute prohibition of the Scheme.
+
+### SHOULD	
+This word, or the corresponding adjective "RECOMMENDED", mean that there may exist valid reasons in particular circumstances to ignore a particular item of the Scheme, but the full implications must be understood and carefully weighed before choosing a different course.
+
+### SHOULD NOT
+This phrase, or the phrase "NOT RECOMMENDED", mean that there may exist valid reasons in particular circumstances when the particular behaviour is acceptable or even useful in the Scheme, but the full implications should be understood, and the case carefully weighed before implementing any behaviour described with this label.
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+## SECTION X: TERMS AND DEFINITIONS
+The following terms and definitions will be used in scheme documentation, unless a contrary term and definition is explained and used:
+
+### ACTIVATE: 
+Activation means the method by which a registered entity joins a subcommittee within the Scheme or is engaged to help produce a subcommittee output. Activation is a requirement of all founders, members, and participants in Scheme subcommittees. 
+
+### ATTRIBUTE PROVIDER:	
+An Attribute Provider (AP) means a participating entity that is responsible for management of attributes linked to an end user’s base identity and manages end user access to resources based on those attributes.
+
+### BUDGET REQUEST:
+Issued by the GC of the BD, before a PG or WG can be deployed.
+
+### CHARTER:
+Issued by the GC for a WG to begin work.
+
+### CONTRIBUTE:
+To submit material to a subcommittee during an activity of the subcommittee or in the production of an output of the subcommittee. 
+Submissions of material can be in writing, including by way of an electronic medium. Submissions can be orally, only if they are memorialised in the subcommittee’s minutes specifically identifying the submission and attributing them to a member or participant.
+
+### CREDENTIAL PROVIDER:
+A Credential Provider (CP) is a participating entity that issues credentials to registered end users, for the purposes of transacting securely with them, offering them resources (information, goods, and/or services) on the basis of authorisations their identity possesses. A CP forms part of the YuTru digital trust framework and must be a licensed financial institution in PNG. 
+
+### DELEGATE:
+A natural person, who is also is an officer (which includes a director or employee) of a licensed financial institution appointed by the organisation to represent the organisation to the Scheme.  A delegate participates in the subcommittee activities and contributes material in the production of subcommittee outputs.  A delegate will be the single point of contact between the Scheme and a member or participant institution.
+
+### DISCUSSION REQUEST:
+Issued by the Governance Council for a discussion subcommittee to start up.
+
+### DRAFT RECOMMENDATION:
+The response provided by a ubcommittee to the GC, in response to the charter it received, and the work done.
+
+### SUBSCRIPTION AGREEMENT:
+The legal document that underpins membership and/or participation by an individual or organisation in the Scheme. Execution of an engagement contract and doing all things necessary to comply with the contract’s terms and conditions represents the registration of a Scheme member or participant.
+
+### FINAL RECOMMENDATION:
+Once a ballot is held on a draft recommendation and it passes, it becomes a final recommendation issued by the GC to the SC.
+
+### GOVERNANCE COUNCIL:	
+The Governance Council (GC) is an organ of the trust framework operator responsible for governing the Scheme. Functions of the GC include setting policy, engaging members, establishing security requirements, adopting standards, and setting technical specifications. The GC is also responsible for managing the discussion group, project group, and working group subcommittees. 
+The GC comprises at least four members, two permanent and two temporary members: The Scheme commissioner (permanent, a representative from the board of directors of the Digital Identification Bureau Ltd. (permanent), a delegate from the relevant project or working group, and a delegate picked from among the Scheme delegates (one who is not presently working on a project group or working group).
+
+### GOVERNANCE GUIDELINES:
+The body of documentation that will specify the way in which the YuTru digital trust framework will be governed by the TFO and its internal organs.
+
+### INTELLECTUAL PROPERTY:
+Intellectual Property (IP) is defined as, but not limited to, contributed material representing:
+	identity management procedures, 
+	information management practices, 
+	computer security protocols,
+	test tools and toolkits, software development kits, software interfaces,
+	source code,
+	online help documentation, reference implementations, 
+	prototypes, software, software protocols, 
+	network and system designs and architectures,
+	disaster recovery and business continuity protocols,
+	data formats and technical specifications, 
+	internal policy documents, 
+	business operations, 
+	practices for organisational lines-of-defence risk management, 
+	administrative back-office procedures, 
+	current and future legal and commercial contractual agreements, 
+	arrangements with customers, employees, service providers, and vendors,
+	trade secrets and proprietary information, 
+	technical information, 
+	financial and accounting information, 
+	procedures and other internal reference manuals, 
+	diagrams, photographs, and marketing collateral,
+	internal reports, facts, and charts, 
+	concepts (including those not in a material form), and
+	all other information, documents and things; as disclosed by a scheme member during the course of Scheme subcommittee activities and the production of subcommittee outputs.
+
+### LICENSED FINANCIAL INSTITUTION:
+A licensed financial institution is a corporation licensed as a financial institution under the Banks and Financial Institutions Act (2000). All members in the YuTru scheme must be licensed financial institutions in PNG, although not all licensed financial institutions may necessarily join the scheme. An LFI may register in the Scheme as a member or as a participant. 
+
+### MATERIAL:
+Material is information contributed to the Scheme. Material may or may not represent IP or have associated IPR. All IP is considered material, but not all material contains IP.
+
+### SCHEME MEMBER:
+Members are registered in the Scheme and are distinct from Participants. All members are a PE of one or more forms: AP, CP, RP.A PE must be a member of the Scheme. A participant in the Scheme need not be a member.
+
+### NATURAL PERSON:
+An individual human being; or ‘in jurisprudence, a natural person is a person (in legal meaning, i.e., one who has its own legal personality) that is an individual human being, as opposed to a legal person, which may be a private (i.e., business entity or non-governmental organization) or public (i.e., government) organization.’   
+
+### PARTICIPANT:
+Participants are registered in the scheme and distinct from members. Participants may only be involved in the DGs of the Scheme. A Participant may be an LFI that is not a member of the Scheme. A Participant is different from a PE in that a Participant cannot perform any of the PE roles in the Scheme. A Participant can only make contributions to DG subcommittee activities and outputs.
+
+### PARTICIPATING ENTITIES:
+Participating entities (PE) are members of the Scheme actively involved in the governance and/or operation of the Scheme. PEs are, specifically, one or more of the following: credential providers (CP), attribute providers (AP), or relying parties (RP). A PE is distinct from a participant in that a PE is a Scheme member and a participant is not a PE.
+A PE must be a member of the Scheme. Members are registered in the Scheme by executing an Engagement Contract. The contract will be between the DIBL and the PE and will rely on a series of Scheme documents to encompass the responsibilities of the contract parties. After registering in the Scheme, a PE will remain in the Scheme for a minimum period of two years.
+
+### PROJECT REQUEST:
+Issued by the GC for a project subcommittee to be started up.
+
+### REGISTER:
+To execute an engagement contract and do all things necessary to comply with the terms and conditions of the engagement contract. Registration is a requirement of all founders, members, and participants in the Scheme.
+
+### RELYING PARTY:
+A Relying Party (RP) is a participating entity that depends on the EU’s fundamental identity or on linked attributes, before they grant the EU access to resources (information, goods and/or services).  
+
+### SCHEME AMENDMENT:
+The change made to the scheme operating rules by the SC to implement a final recommendation made by the GC.
+
+### SCHEME COMMISSIONER:
+The Scheme Commissioner (SC) will have overall responsibility for governance (through the GC) and operation (implementing and monitoring compliance with the SR) of the Scheme. The SC is the person charged with responsibility for overseeing  
+
+### SCHEME RULES:
+The body of documentation that will guide operation of the YuTru digital trust framework among LFIs in PNG.  The Scheme Rules (SR) will contain rules, standards, specifications, and agreements that will prescribe how digital identification will be managed and how interoperability of digital identification among LFIs will function.
+
+### SUBCOMMITTEE:
+Any or all of the following internal organs of the TFO: discussion group (DG), project group (PG), or working group (WG).
+
+### TRUST FRAMEWORK OPERATOR:
+The TFO is the Digital Identification Bureau Limited, a corporation formed under the Companies Act (1997) to govern and operate the ‘YuTru’ digital trust framework. Governance and operation will be in accordance documented rules and processes, agreed and adopted technical standards, multi-lateral agreements, and common terms and definitions. 
+The aims of the TFO are to expand financial inclusion, harmonise digital identification among LFIs, formalise a system of vouching from known bank customers to new unknown customers, provide a reliable identity lookup and validation service, and to empower end users with better knowledge about digital identification and how to use it safely for better economic outcomes.
+
+### YuTru:
+The commercial trading name given to the private-sector digital trust framework operated by the Digital Identification Bureau Ltd. The business registration number is: 6-241426.
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+## SECTION X: GENERAL SECURITY AND IDENTITY TERMINOLOGY
+
+### ACCEPTABLE RISK:
+A risk that is understood by a system’s user, operator, owner, or accreditor. A risk is acceptable when the cost or difficulty implementing a countermeasure for the respective vulnerability is greater than the loss threatened by exposure to the risk.
+
+### ACCESS:
+The capability and means to communicate or interact with a system, or to use resources of a system, or to acquire knowledge about the information in a system (p.9, Shirey 2007).
+
+### ACCESS CONTROL LIST:
+A mechanism to implement access control for a resource by listing the identities (subjects) that are permitted to access a resource (object) and what processing operations can be performed.  An access control list represents a list of the subjects and the access mode by which the subjects can access an object.  Multiple access control lists can be represented side-by-side to form an access control matrix, where one column represents an access control list for a single ‘object’, and each row represents an access profile for a single ‘subject’ (pp.10-11, Shirey 2007).
+
+### ACCESS LIST:
+A register of natural persons who are authorised to enter a secure and controlled area.
+
+### ACCESS MODE:
+One or more of the following processing operations: read, write, append, or execute; that a subject can perform on an object within an information system.
+
+### ACCOUNTABILITY:
+The attribute of an information system that guarantees that the operations performed by an entity in the system may be uniquely traced back to that entity, which can then be held responsible for its actions (p.12, Shirey 2007).
+
+### ANONYMOUS:
+An interaction structured in such a manner so that the data collected is insufficient to infer the identity of the end user involved in the interaction. Additionally, the data collected should be insufficient to allow multiple interactions with an end user to be joined together to reveal patterns of behaviour of an end user, which in turn might reveal their identity.
+
+### APPLICATION PROGRAMMING INTERFACE:
+Application programming interface is part of a computer program that can be access in a predictable way directly from another computer program. Access may take place via a local area network connection or across the global Internet. APIs are used to connect disparate pieces of computer software together in a loose collection of cooperating computing components. Some well-known publicly-accessible APIs include those provided by Google, Facebook, and Twitter.
+
+### APPLICATION:
+Program	A computer program that provides functionality directly to a natural person.  Application programs are distinct from system programs that provides functionality to other system programs or application programs.
+
+### ASSERTION:
+A claim made by an entity about its identity or identity attributes without accompanying evidence, or the act of making such a statement.
+
+### ASSET:
+Something of value to an individual or organisation.  An asset can also be referred to as a ‘resource’.
+
+### ASSURANCE:
+(a)	An attribute of an information system that provides grounds for having confidence that the system operates in such a manner that the system security policy can be considered enforced.
+(b)	A procedure that ensures a system is developed and operated as intended by the system’s security policy.
+
+### ASSURANCE LEVEL:
+‘A rank on a hierarchical scale that judges the confidence someone can have that a mechanism adequately fulfils stated security requirements.’ (p.20, Shirey 2007).
+
+### ASYMMETRIC KEY CRYPTOGRAPHY:
+Also known as public key cryptography, uses public and private keys to encrypt and decrypt data. The public and private keys are large numbers that are linked together by a provable mathematical relationship.Possession of the public key proves ownership of the linked private key. 
+
+The private key is used to encrypt data and is kept secret. The public key is made freely available and is used to decrypt data. Decryption of the data with the public key proves unequivocally that the owner of the corresponding private key (the secret one) was the entity that encrypted the data. 
+
+Numerous Internet-based communication protocols depend on asymmetric key cryptography for encryption such as: SSH, S/MIME, OpenPGP, and SSL/TLS.
+
+### ATTACK:
+An intentional action by an entity (attacker) to evade a system’s security measures and which violates the system’s security policy.  Attacks can be passive or active.  An active attack attempts to change system resources or how they function.  A passive attack only attempts to discover information in a system without altering resources in the system (pp.21-22, Shirey 2007).
+
+### ATTACK POTENTIAL:
+The perceived potential for a successful attack, should an attack be made, described in terms of an attacker’s expertise, resources, and motives (ISO/IEC 15408:2005).
+
+### AUTHENTICATION:
+The process or action of verifying the identity of an end user or system or process, to a certain degree of confidence. 
+
+### AUTHENTICATION FACTOR:
+A piece of information used to authenticate or validate the identity of an entity. Authentication factors fall into four categories: something you know (e.g. a PIN), something you do (e.g. a particular place at which you regularly transact), something you are (e.g. a 3D face scan), and something you have (e.g. a mobile handset).
+
+### AUTHORISATION:
+Authorization is a security mechanism used to determine user/client privileges or access levels related to system resources, including computer programs, files, services, data and application features. Authorization is normally preceded by authentication of user identity verification. 
+
+### AWARENESS-DETECTION-PREVENTION-RESPONSE:
+The four types of security solution to thwart computer security attacks are: awareness, detection, prevention, and response solutions.
+
+### CHALLENGE:
+A mechanism by which an entity is asked to authenticate to establish its identity and to determine what authorisations the identity possesses.
+
+### CLAIM:
+See ASSERTION.
+
+### CONFIDENTIALITY:
+‘The property that data is not disclosed to system entities unless they have been authorized to know the data’ or ‘the property that information is not made available or disclosed to unauthorized individuals, entities, or processes. (Shirey 2007).
+
+### CONNECTIVITY:
+The property of a target of evaluation which allows interaction with information technology entities external to the target, including the exchange of data by wire or wireless means.
+
+### COUNTERMEASURE:
+An action, device, procedure, or technique that reduces a threat, a vulnerability, or an attack by eliminating or preventing it, by minimizing the harm it can cause, or by discovering and reporting it so that corrective action can be taken.
+
+### CREDENTIAL:
+An object or data structure, that authoritatively represents the link between an end user identity – and optionally, additional identity attribute - and a unit of authentication information (i.e. an authenticator), that is held by and within the control of the end user (World Bank 2018). A credential is presented to allow validation and verification of an asserted identity by an authority when an end user attempts to access a controlled resource.
+
+### CRYPTANALYSIS:
+The mathematical science that deals with analysis of a cryptographic system to gain knowledge needed to break or circumvent the protection that the system is designed to provide (p.86, Shirey 2007).
+
+### CRYPTOGRAPHIC MODULE:
+A set of hardware, software, firmware, or some combination thereof that implements cryptographic logic or processes, including cryptographic algorithms, and is contained within the module’s cryptographic boundary”, which is an explicitly defined contiguous perimeter that establishes the physical bounds of the module.
+
+### CRYPTOGRAPHIC TOKEN:
+A portable, user-controlled, physical device (e.g., smartcard) used to store cryptographic information and possibly also perform cryptographic functions.’ (Shirey 2007).
+
+Tokens are representations of an authorisation given out when an end user authenticates themselves. A token can be held in software or hardware. Tokens are also used to prove an authentication factor, in response to a request for an end user to authenticate themselves. Software tokens provide the advantages of multi-factor authentication while simplifying and lowering the cost of distribution.
+
+An example of a software token might be the response from a computer server to an end user, upon successfully authenticating with the correct username and password. The software token can then be passed along by the end user (instead of repeatedly entering a username and password) to other services and systems, usually for a specific period of time, to prove they are authorised to access the system or service. 
+
+An example of a hardware security token (sometimes called an authentication token) is a small hardware device that an end user carries to authorize access to resources. The hardware may be in the form of a smart card or may be embedded in a commonly used object such as a key fob or wristband.
+
+### CRYPTOGRAPHY:
+The mathematical science that deals with transforming data to render its meaning unintelligible (i.e., to hide its semantic content), prevent its undetected alteration, or prevent its unauthorized use. If the transformation is reversible, cryptography also deals with restoring encrypted data to intelligible form (p.89, Shirey 2007).
+
+### CRYPTOLOGY:
+The science of communicating in secret. Cryptology includes both disciplines: cryptography and cryptanalysis (p.90, Shirey 2007).
+
+### CYCLIC REDUNDANCY CHECK:
+A type of checksum algorithm that is not a cryptographic function but is used to implement data integrity service where accidental changes to data are expected. A CRC is used in the structure of credit card numbers and shipping container numbers and the algorithms for these CRC’s are open standards.
+
+### DE-DUPLICATION:
+The techniques used to identify duplicate identity data. Often this is conducted using biometric signatures to identify false identity claims at the time of enrolment of an individual.
+
+### DIGITAL DOCUMENT:
+An electronic data object that represents information originally written in a non-electronic, non-magnetic medium (usually ink on paper) or is an analogue of a document of that type (p.102, Shirey 2007).
+
+### DIGITAL IDENTITY:
+A set of electronically captured and stored attributes and credentials that can uniquely identify a person. (p.v, World Bank 2018).
+
+### DIGITAL SIGNATURE:
+A value computed with a cryptographic algorithm and associated with a data object in such a way that any recipient of the data can use the signature to verify the data’s origin and integrity. (p.102, Shirey 2007).
+
+### DOCUMENTATION:
+An identity document (also called a piece of identification or ID, or colloquially as papers) is any document which may be used to prove a person’s identity. If issued in a small, standard credit card size form, it might be called an identity card (IC), ID card, or citizen card.
+
+### DOMAIN:
+A set of resources that exist in the same security context and share protection from a single, common, continuous security boundary.
+
+### E-COMMERCE:
+Electronic Commerce (e-Commerce) is business conducted through paperless exchanges of information, using electronic data interchange, electronic funds transfer (EFT), electronic mail, computer bulletin boards, facsimile, and other paperless technologies. (p.115, Shirey 2007).
+
+### ELEMENT:
+An atomic or indivisible requirement of a security protocol.
+
+### ENCLAVE:
+See DOMAIN
+
+### ENCRYPTION:
+Cryptographic transformation of data (called “plain text”) into a different form (called “cipher text”) that conceals the data’s original meaning and prevents the original form from being used. The corresponding reverse process is “decryption”, a transformation that restores encrypted data to its original form. (p.118, Shirey 2007)
+
+### ENROLMENT:
+See Registration.
+
+### ENTITY:
+Something that has a separate and distinct existence, and which can be identified in a given environment or context.
+
+### EVIDENCE:
+Information which can be used by an authority to assess the validity and/or correctness of a claim.
+
+### EXPIRE:
+When something ceases to be valid, i.e. becomes invalid, e.g. a credential, because its intended lifespan has been exceeded.
+
+### EXPOSURE:
+The action of a threat whereby sensitive data is made available to an unauthorized entity. Includes the following sub-actions: deliberate exposure, scavenging, human error, and system failure.
+
+### HUMAN USER:
+Any natural person that interacts with a target of evaluation in a security context.
+
+### IDENTIFICATION:
+The process of asserting a claim about identity and identity-related attributes. Those assertions need to be verified (usually by checking credentials presented against information vetted and recorded in the registration process) as authentic before authorisation can begin. Claims about identity can be made by a person (natural or legal), a computer process or service, or a device.
+
+### IDENTIFIERS:
+Identifiers are the numbers or other non-attribute values generated and assigned to an identity as a method of referencing specific end users or groups of end users within an identity context.
+
+### IDENTITY:
+A combination of identity attributes which uniquely distinguishes a person (natural or legal) within a specific context (DTA 2018).
+
+### IDENTITY ASSURANCE:
+The ability to determine with some level of certainty (a level of assurance) that the identity or identity attributes claimed by an end user are the claimant’s true identity or identity attributes.
+
+### IDENTITY TRANSACTION:
+Any transaction involving two or more participants which involves establishing, verifying, issuing, asserting, revoking, communicating, or relying on identity information (UNCITRAL 2017, p.7, para.34). 
+
+### INFORMAL:
+Expressed in natural language (ISO/IEC 15408:2005).
+
+### INTEGRITY:
+The property that data has not been changed, destroyed, or lost in an unauthorized or accidental manner (Shirey 2007).
+
+### INTEROPERABILITY:
+The ability of information systems and procedures to share or authenticate data and enable the exchange of information and knowledge among them (World Bank 2017).
+
+### JSON:
+JavaScript Object Notation is a simple text-based data-interchange format.  It is easy for humans to read and write, as well as easy for computers to understand and output.  JSON is language-independent but uses a layout which is readily recognisable by most computer programmers familiar with the C-family of languages (i.e. C, C++, C#, Java, JavaScript, Perl, and Python.  These features make JSON a popular data-interchange language. 
+
+### LEGAL IDENTITY:
+An association, corporation, partnership, proprietorship, trust, or individual that has legal standing in the eyes of the law. A legal entity has legal capacity to enter into agreements or contracts, assume obligations, incur and pay debts, sue and be sued in its own rights, and to be held responsible for its actions.
+
+### LEGAL PERSON:
+An individual human being, a company, or other organisational entity that has legal rights and obligations in a jurisdiction.
+
+### LEVEL OF ASSURANCE:
+The degree of confidence that can be had that an identity or identity attribute claim reflects the true identity or identity attribute.
+
+### NON-REPUDIATION:
+The inability to falsely deny involvement in an electronic communication or transaction.
+
+### PRIVACY:
+See CONFIDENTIALITY.
+
+### PROTECTION PROFILE:
+A vendor-neutral or implementation-independent set of security requirements for a category of targets of evaluation. For example, a ‘protection profile’ might be developed for smartphone apps that contain an end user’s digital signature signing keys.
+
+### PROTOCOL:
+‘Set of rules and formats, semantic (meaning), and syntactic (format), that enable information systems to exchange information’ (World Bank 2018).
+
+### REFERENCE MONITOR:
+The concept of an abstract ‘machine’ that enforces the target of evaluations access control policies and is: (i) tamper-proof, (ii) always incorporated and operational, and (iii) can be transparently assessed and tested.
+
+### REGISTRATION:
+The process of making an end user’s identity known to a credential provider, recording identity details in a computerised information system, issuing a unique identifier, linking the identity representation to the unique identifier, and issuance of a credential to represent the identity information.  Usually, registration is accompanied by claims about other identity attributes and those claims must then be validated and verified before the end user can be considered enrolled.
+
+### RESOURCES:
+Information, systems, goods, or services to which access is controlled and dependant on the granting of authorisation linked to a valid and verified identity.
+
+### REVOCATION:
+‘The process of prematurely ending the operational period of a certificate or credential effective at a specific date and time’ (World Bank 2018).
+
+### SECURITY AUDIT:
+‘An independent review and examination of a system's records and activities to determine the adequacy of system controls, ensure compliance with established security policy and procedures, detect breaches in security services, and recommend any changes that are indicated for countermeasures.’ (p.265, Shirey 2007).
+
+### SECURITY TOKEN:
+See Credential.
+
+### SEMIFORMAL:
+Expressed in language which uses a limited vocabulary and according to a defined grammar. Semiformal expressions are often used to describe security and system requirements
+
+### SYSTEM:
+A specific IT instance which has a particular and operational environment. For example, a web-based application’s web server could be considered a single ‘system’, the application could be considered another, and the networking subsystem of the server yet another.
+
+### SYSTEM PROGRAMS:
+A computer program that provides functionality to other system programs or an application program. System programs are distinct from application programs that provide functionality directly to a natural person.
+
+### SYSTEM RESOURCE:
+‘Data contained in an information system; or a service provided by a system; or a system capacity, such as processing power or communication bandwidth; or an item of system equipment (i.e. hardware, firmware, software, or documentation); or a facility that houses system operations and equipment.’ (pp.298-299, Shirey 2007).
+
+### THREAT:
+Something that could cause harm to a resource. A threat can be accidental or intentional in nature.
+
+### TOE:
+Target of Evaluation (TOE) refers to an IT system, service, product, or physical object which is the focus of a systematic security evaluation. Examples of TOEs include: applications, a distributed system, a computer network, or an operating system.
+
+### URI:
+A type of formatted identifier (Berners-Lee et al. 2005) that encapsulates the name of an Internet object, and labels it with an identification of the name space, thus producing a member of the universal set of names in registered name spaces and of addresses referring to registered protocols or name spaces. (p.326 Shirey 2007).  
+Internet Standard 66 (STD 66, which maps to RFC 3986 or Berners-Lee et al. 2005) recommends: Future specifications and related documentation should use the general term "URI" rather than the more restrictive terms "URL" and "URN".  Another acronym for URI is IRI or Internet Resource Identifier.
+Validated	The degree to which a claim made about an identity matches the evidence presented for the claim. Something that is valid differs from something that is verified, in that, validity asserts that the evidence strongly matches the claim, but something verified asserts that the claim made is the true nature of the thing which the claim represents.
+For example: a driver’s license presented as evidence of a claimed name and date of birth of an end user, may match the claimed name and date of birth would be, therefore, considered valid. But the driver’s license may not belong to the end user and the end user may have been using the name as an alias – the claim is unverifiable, but valid.
+
+### VERIFIED:
+The degree to which end user identity claim matches the true nature of the attributes which are claimed. Something that is verified differs from something that is valid, in that, verification establishes that the evidence matches the true nature of that which is evidenced, but validity asserts that an end user’s claim is supported by strong evidence of the claim.
+For example: a driver’s license presented as evidence of a claimed name and date of birth of an end user, may have expired and thus be invalid, but may be verifiable as the legitimate name and date of birth of the end user that presents the license as evidence.
+
+### VIRUS:
+A self-replicating (and usually hidden) piece of software that propagates by inserting a copy of itself into and becoming part of another program. ‘A virus cannot run by itself; it requires that its host program be run to make the virus active.’ (p.332, Shirey 2007).
+
+### VULNERABILITY:
+A flaw or weakness in a system that could be exploited to violate the system's security policy.  Vulnerabilities exist in three types: (a) vulnerability in design, (b) vulnerability in implementation, and (c) vulnerability in operation.
+
+### XML:
+Extensible mark-up language is a text format that uses separate representations for a document’s content and its structure.
