@@ -1,0 +1,26 @@
+# FORMATTING and NAMING CONVENTIONS
+
+--------------------------------------------------------------------------------------------------------------------------
+## INTRODUCTION
+
+The body of scheme documents are written in plain text format with markdown <?> formatting. 
+
+This is to ensure the widest possible readership. Using plain text avoids excluding readers who may not have access to proprietary software, like Microsoft Word. Using plain text also ensures that the content can be read by other systems automatically without the need for special conversions or transformations.  
+
+Presentation versions of the framework, governance and scheme documents will be made available for each <series> in PDF format.
+
+This document outlines the naming and formatting conventions used in the scheme documentation. 
+The scheme documentation consists of <framework-documents>, <governance-guideline> docuemnts and <scheme-rule> documents. 
+
+The corpus of text documents are hosted in a GIT repository, located here: <?>
+
+## HEADINGS
+Headings are used at three levels. 
+Level 1 headings are denoted by a single hash character in markdown: #. 
+Level 2 headings are denoted by double hashes, ## are preceded by a horizontal line to better delineate the section.
+Level 3 headings are denoted by triple hashes, ###. 
+
+## ORGANISATION
+All documents fall into one of three groups, either a top-level framework document, a governance guideline document or a scheme rule document.
+
+
