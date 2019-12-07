@@ -1,0 +1,39 @@
+# REFERENCES
+
+
+
+
+
++ Berners-Lee, T., Fielding, R. and Masinter, L. 2005. ‘Uniform Resource Identifier (URI): Generic Syntax’, Network Working Group, RFC 3986, Category: Standards Track.
+
++ Clark J. 2017. ‘The State of Identification Systems in Africa’, Washington, DC: International Bank for Reconstruction and Development / The World Bank.
+
++ DTA 2018. ‘Glossary of Terms’, Trusted Digital Identity Framework, version 1.0, Australian Digital Transformation Agency, Australian Government.
+
++ Herzberg A. and Mass Y. 2001. ‘Relying Party Credentials Framework’ in: Naccache D. (eds.) Topics in Cryptology — CT-RSA 2001. CT-RSA 2001. Lecture Notes in Computer Science, vol. 2020. Springer, Berlin, Heidelberg.
+
++ IDEF 2015. ‘IDEF Baseline Functional Requirements’, Version 1.0, Identity Ecosystem Steering Group, Inc., supported by the National Strategy for Trusted Identities in Cyberspace (NSTIC) part of the National Institute of Standards and Technology (NIST), online source: 
+
++ ISO/IEC 2005. ‘Common Criteria for Information Technology Security Evaluation’, Version 2.3, Supporting ISO/IEC 15408.
+
++ ISO/IEC 29115:2011 (E)
+
++ Kantara Initiative 2017. ‘Kantara Initiative Inc. IPR Policies’, version 2, 16th February 2017.  
+
++ Makaay, E., Smedinghoff, T., and Thibeau, D. 2017. ‘Trust Frameworks for Identity Systems’. White Paper, The Trust Framework Series. Open Identity Exchange, June 2017.
+
++ Malik T. and Mittal, A. 2017. ‘Technical Standards for Digital Identification’, Washington, DC: International Bank for Reconstruction and Development / The World Bank.
+
++ Rahaman, A. and Sasse, M. A. 2012. ‘Designing National Identity: An Organisational Perspective on Requirements for National Identity Management Systems’. Proceedings of the Sixth International Conference on Digital Society, 2012, pp. 40-49.
+
++ Shirey, R. 2000. ‘Internet Security Glossary’, RFC 2828, DOI 10.17487/RFC2828, May 2000, online source: https://www.rfc-editor.org/info/rfc2828.
+
++ Shirey, R. 2007. ‘Internet Security Glossary’, Version 2, FYI 36, RFC 4949, DOI 10.17487/RFC4949, August 2007, online source: https://www.rfc-editor.org/info/rfc4949.
+
++ Temoshok, D. and Abruzzi C. 2018. ‘Developing Trust Frameworks to Support Identity Federations’. National Institute for Standards and Technology.  Online source:  https://doi.org/10.6028/NIST.IR.8149.
+
++ World Bank 2018. ‘Technology Landscape for Digital Identification’, Washington, DC: World Bank License: Creative Commons Attribution 3.0 IGO (CC BY 3.0 IGO).
+
++ World Bank Group 2018, G20 Digital Identity Onboarding
+
++ World Bank Group YYYY, Catalog of Technical Standards for Digital Identification Systems

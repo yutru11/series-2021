@@ -1,21 +1,51 @@
-# Index
+# INDEX TO THE SCHEME RULES
 
---------------------------------------------------------------------------------------------------------------------------
-## PNG-DTF-SR-2021-001: BUSINESS RULES
+-----------------------------------------------------------------------------------------------------------------------## INTRODUCTION
+
+Digital identitiy can be interpreted in a number of ways. For the purpose of these scheme rules we refer to digital identitiy as the functional identity established within the scheme for the purposes of access to financial services.
+
+Within these rules we deal with establushment of digital identity for natural persons, rather than legal persons. In a future version of the rules, they will be broadened to encompass legal persons too.
+
+The purpose of these scheme rules is to enable the unique identification of a natural person using digital means which is: (a) based on physical and conceptual identifiers and attributes of the person which establishes their uniqueness in the Papua New Guinean population; and (b) is recognised by all participating entities with the scheme to some degree of certainty.
+
+
+-----------------------------------------------------------------------------------------------------------------------## PNG-DTF-SR-2021-001: BUSINESS RULES
+
+### Levels of Assurance
+
+Digital transactions have security requirements which in turn depend on a common and specified understanding of the degree of confidence each transaction party has in the identities of the entities.  
+
+The security requirements might include protecting valuable assets, safeguarding assets from unauthorised use, enabling a control mechanism over a resource, enforcing accountability, or for accounting and billing purposes.
+
+This section sets out an entity authentication assurance scale based on the ISO/IEC 29115 standard. It consists of four levelsof assurance (LOA) which participating entities can use to signal their degree of confidence in an identity whether that identitiy originates in the scheme or not.
+
+LOA-1
+LOA-2
+LOA-3
+LOA-4
+
+
+
 ### Legal Liability
 ### Data Collection
 ### Data Custody
-### Data Dispoition
+### Data Disposition
+
 ### Privacy and Access
+All participating entities will allow access to personally identifiable information (PII) in a manner that is strictly controlled and audtiable.
+
+All participating entities will compile and maintain an inventory of PII and nominate a person responsible for controlling access to such PII. The person will be named the 'data controller' and this person wil be given adeqiuate and regular training in how to manage and memorialise access to the PII they control.
+
 ### Internal Reviews
 ### Assessments
 ### Audits
 
---------------------------------------------------------------------------------------------------------------------------
-## PNG-DTF-SR-2021-002: OPERATIONS RULES
+-----------------------------------------------------------------------------------------------------------------------## PNG-DTF-SR-2021-002: OPERATIONS RULES
 ### Acquisition
 ### Referrals
-### Vetting
+### Proofing
+In this section we set out the different types of identitiy proofing permisable in the scheme.
+
 ### Assurance
 ### Issuance
 ### Maintenance
@@ -27,8 +57,7 @@
 ### Expiration
 ### Renewal
 
---------------------------------------------------------------------------------------------------------------------------
-## PNG-DTF-SR-2021-003: TECHNICAL RULES
+-----------------------------------------------------------------------------------------------------------------------## PNG-DTF-SR-2021-003: TECHNICAL RULES
 ### Enrolment Biometrics
 ### Biometric Standards
 ### De-duplication Methods
@@ -38,8 +67,7 @@
 ### Transmission Protocols
 ### Encryption Standards
 
---------------------------------------------------------------------------------------------------------------------------
-## PNG-DTF-SR-2021-004: LEGAL AND REGULATORY RULES
+-----------------------------------------------------------------------------------------------------------------------## PNG-DTF-SR-2021-004: LEGAL AND REGULATORY RULES
 
 
 

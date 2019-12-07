@@ -1,0 +1,48 @@
+# INDEX TO THE GOVERNANCE GUIDELINES
+
+--------------------------------------------------------------------------------------------------------------------------
+## PNG-DTF-GG-2021-012: CHARTER
+
+### Introduction
+### Vision
+### Mission
+### Strategic Objectives
+### Principles
+### Outcomes
+
+--------------------------------------------------------------------------------------------------------------------------
+## PNG-DTF-GG-2021-013: ROLES
+
+### Membership Levels
+### Membership Conditions
+### Governance 
+### Authority and Responsibility
+### Staff, Office, and Infrastructure
+### Decision Making
+### Document Types
+### Statuses
+
+--------------------------------------------------------------------------------------------------------------------------
+## PNG-DTF-GG-2021-014: DEFINITIONS AND INTERPRETATIONS
+
+### Digital Identification Lifecycle
+### Document Attributes
+### Level of Requirements
+### Terms and Definitions
+### General Security and Identity Terminology
+### Levels of Assurance
+
+--------------------------------------------------------------------------------------------------------------------------
+## PNG-DTF-GG-2021-015: GOVERNANCE
+
+### Status Changes
+### Notices
+### IPR Review
+### Public Comments
+### Voting by Ballot
+### Change Management
+### Configuration Management
+### Exiting the Scheme
+
+
+--- end of document ---

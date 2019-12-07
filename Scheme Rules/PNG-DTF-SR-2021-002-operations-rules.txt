@@ -1,4 +1,57 @@
-## PNG-DTF-SR-2021-002: OPERATIONS RULES
+# PNG-DTF-SR-2021-002: OPERATIONS RULES
+
+--------------------------------------------------------------------------------------------------------------------------
+## SECTION X: DIGITAL IDENTIFICATION LIFECYCLE
+
+Within the context of the scheme, the lifecycle of an end users digital identitiy will these discrete steps:
+
+### Registration
+The 
+
+### Credentialling
+	This section explains how end users will be issued a digital credential that represents their claimed, vetted, and registered identity.
+	Issuance -> Maintenance -> Revokation
+
+### Authentication
+	This section explains how participating entities will authenticate an end user who asserts possession and control of a digital credential.
+	Assertion -> Verification -> Authentication
+
+### Authorisation
+	This section explains how participating entities will authorise an end user for financial services.
+	Eligibility -> Role -> Risk Assessment -> Data Minimisation
+
+### Maintenance
+	This section describes how a digital identity will be managed and maintained within the scheme.
+	
+### Redress
+	This section sets out the process for handling matters of redress by an end user including right to be forgotten by the scheme.
+
+### Recovery
+	This section sets out how 
+
+
+### Review
+
+
+
+### Assessment
+
+
+
+### Auditing
+
+
+
+### Support
+
+
+
+### Updates
+
+
+
+
+
 ### Acquisition
 ### Referrals
 ### Vetting

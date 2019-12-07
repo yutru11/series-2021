@@ -1,11 +1,17 @@
-# Templatae for a Subcommittee Charter
+# TEMPLATE: SUBCOMMITTEE CHARTER
+
+
+
+
 
 ##SUBCOMMITTEE NAME
 <example: Core Identitiy Data (CID)>
 
 ##SUBCOMMITTEE TYPE
 {Discussion Group | Project Group | Working Group}
-<example: Discussion Group>
+
+<example:
+Discussion Group>
 
 ##PURPOSE
 <example: The subcommittee will propose and agree the contents for the core identity data structure to be managed by all participating entities in the Yutru scheme. The intent is to create a common core of identitiy data to harmonise how identity is captured and communicated among participating entities in the scheme. The subcommittee will complete the specification by 2019/03/31.>
@@ -42,6 +48,6 @@ none
 
 ##PROPOSERS
 <example: 
-Michael Schwartz
+Michael Schwartz, Cisco Systems Inc.
 Keith Hazelton, Internet2
-Janusz Ulanowski, HEAnet>
+Janusz Ulanowski, HEADnet>

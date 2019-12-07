@@ -42,13 +42,18 @@ The following principles will guide behaviour of the Scheme:
 
 ### Accessibility and Diffusion
 The Scheme will endeavour to make digital identification accessible to all, especially those living in remote parts of the country.
+
 Travel in PNG can be time-consuming, laborious, and costly. Each stage of the identification lifecycle must be planned and executed with the geography of the country in mind and to minimise the need for people to travel.
+
 YuTru will endeavour to make digital identification easy to understand and use. The speed with which such technical innovations become a normal part of day-to-day social and economic transactions will depend almost entirely on their simplicity and comprehensibility. 
+
 The example set by YuTru may well encourage other entities and service providers to make use of YuTru standards, which will expand the use of digital identity and increase the benefits for people and society. It could also promote the development of new or improved services.
 
 ### Interoperability
 The Scheme will aim to make its digital identification services as interoperable as possible - among scheme member institutions and the broader e-commerce community domestically, regionally, and abroad.
+
 The broader e-commerce community may be national, regional, or international.  In other words, the aim will be to make the YuTru identity one that is recognised and accepted as widely as possible. This will depend partly on the consistent application of standards and strict rules governing compliance and breach and the success of the Scheme in PNG. 
+
 To maximise the chances of success, the standards set will be clear and unambiguous and, wherever possible, will govern a range of contingencies, thereby reducing complexity of operation and transaction costs, for service providers and citizens.
 
 

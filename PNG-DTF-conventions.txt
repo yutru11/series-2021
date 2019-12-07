@@ -1,26 +1,130 @@
-# FORMATTING and NAMING CONVENTIONS
+# FORMATTING & NAMING CONVENTIONS
 
---------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------
 ## INTRODUCTION
+-----------------------------------------------------------------------------------------------------------------------
+The body of scheme documents are written in plain text format with markdown <?> formatting.  This is to ensure the widest possible readership. Using plain text avoids excluding readers who may not have access to proprietary software, like Microsoft Word. Using plain text also ensures that the content can be read by other systems automatically without the need for special conversions or transformations.  Presentation versions of the framework, governance and scheme documents will be made available for each <series> in PDF format.
 
-The body of scheme documents are written in plain text format with markdown <?> formatting. 
+This document outlines the naming and formatting conventions used across all scheme documentation.  The scheme documentation consists of one or more of the following document types: <framework-document>, <governance-guideline>, and/or <scheme-rule>.
 
-This is to ensure the widest possible readership. Using plain text avoids excluding readers who may not have access to proprietary software, like Microsoft Word. Using plain text also ensures that the content can be read by other systems automatically without the need for special conversions or transformations.  
+The corpus of text documents are also hosted in a GIT repository, located here: https://github.com/yutru11/series-2021 to permit open access.
 
-Presentation versions of the framework, governance and scheme documents will be made available for each <series> in PDF format.
+-----------------------------------------------------------------------------------------------------------------------
+## DOCUMENT HIERARCHY 
+-----------------------------------------------------------------------------------------------------------------------
+All documents in a single <series> fall into one of three types, either:
++ a top-level <framework-document>, 
++ a <governance-guideline> document, or 
++ a <scheme-rule> document.
 
-This document outlines the naming and formatting conventions used in the scheme documentation. 
-The scheme documentation consists of <framework-documents>, <governance-guideline> docuemnts and <scheme-rule> documents. 
+-----------------------------------------------------------------------------------------------------------------------
+## USE OF HEADINGS
+-----------------------------------------------------------------------------------------------------------------------
 
-The corpus of text documents are hosted in a GIT repository, located here: <?>
+Headings are used at three levels:
 
-## HEADINGS
-Headings are used at three levels. 
-Level 1 headings are denoted by a single hash character in markdown: #. 
-Level 2 headings are denoted by double hashes, ## are preceded by a horizontal line to better delineate the section.
-Level 3 headings are denoted by triple hashes, ###. 
+[  
+[  + Level 1 headings are denoted by a single hash character '#', followed by a space and then the heading text, for example:
+[  
 
-## ORGANISATION
-All documents fall into one of three groups, either a top-level framework document, a governance guideline document or a scheme rule document.
+# SAMPLE LEVEL 1 HEADING
+
+  
 
 
+
+[  
+[  + Level 2 headings are denoted by double hashes '##' and are preceded and followed by a dotted line, for example:
+[  
+
+-----------------------------------------------------------------------------------------------------------------------
+## SAMPLE HEADING AT LEVEL 2
+-----------------------------------------------------------------------------------------------------------------------
+
+
+
+  
+
+[  
+[  + Level 3 headings are denoted by triple hashes '###' then the heading text then terminated by a colon character ':' and CR/LF, for example: 
+[  
+
+### SAMPLE LEVEL 3 HEADING:
+An attribute is ...
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------
+## TABLES & DIAGRAMS
+-----------------------------------------------------------------------------------------------------------------------
+Tables are denoted by:
+====================================================================
+
+Diagrams placeholders are denoted by:
+<diagram>
+
+-----------------------------------------------------------------------------------------------------------------------
+## AUTHOR ATTRIBUTIOKN
+-----------------------------------------------------------------------------------------------------------------------
+Attribution of all documents in this corpus will be to the Digital Identification Bureau Ltd.
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------
+## LEVEL OF REQUIREMENTS
+-----------------------------------------------------------------------------------------------------------------------
+The following definitions are interpreted according to definitions set out in RFC-2119 [https://www.ietf.org/rfc/rfc2119.txt]:
+
+### MAY
+This word, or the corresponding adjective "OPTIONAL", mean that an item is discretional.  One participating entity may choose to include the item because they deem it necessary or because the participating entity asserts that it enhances their implementation of the scheme rules, while another participating entity may omit the same item.  A scheme implementation by a participating entity which does not include a particular option MUST be prepared to interoperate with other implementations which do include the option, though perhaps with reduced functionality.  In the same vane an implementation which does include a particular option MUST be prepared to interoperate with another implementation which does not include the option (except, of course, for the feature the option provides.)
+
+### MUST
+This word, or the terms "REQUIRED" or "SHALL", mean that the definition is an absolute requirement of the scheme rules. 
+
+### MUST NOT	
+This phrase, or the phrase "SHALL NOT", mean that the definition is an absolute prohibition of the scheme rules.
+
+### SHOULD	
+This word, or the corresponding adjective "RECOMMENDED", mean that there may exist valid reasons in particular circumstances to ignore a particular item of the scheme rules, but the full implications must be understood and carefully weighed before choosing a different course.
+
+### SHOULD NOT
+This phrase, or the phrase "NOT RECOMMENDED", mean that there may exist valid reasons in particular circumstances when the particular behaviour is acceptable or even useful in the scheme, but the full implications should be understood, and the case carefully weighed before implementing any behaviour described with this label.
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------
+## DOCUMENT CONTROL ATTRIBUTES
+-----------------------------------------------------------------------------------------------------------------------
+Each scheme document will be labelled with the following attributes:
+
+### Document Reference Number
+A unique number to refer to the document by, prefixed by: GG.YYYY, where YYYY is the Gregorian year represented in four digits.
+	e.g. GG.2021.01 represents this document in the 2021 series of governance guidelines.
+
+### Version
+An integer padded to with zeroes to three decimal places representing the version of the document.
+	e.g. Version: 002, for the second major revision to the document. 
+A major revision is often related to a change to the structure of the document.
+
+### Revision
+An alphabetic character representing the number of revisions of the current version.
+	e.g. Revision: C, for the third minor revision of the current version. 
+A minor version is often related to a change of content whilst the structure of the document remains unchanged.
+
+### Audience
+Each scheme document will have one and only one audience designation: 
+	Project | Governance | Operations
+
+### Scope
+	Public | Private | Confidential
+
+###  Status
+Each scheme document will be given one and only one of the following statuses: 
+	Draft | Initial | Circulation | Review | Final

@@ -1,10 +1,7 @@
 # Index
 
 ## Subcommittee Charter
-## Subcommittee Request
 ## Subcommittee Response
-## Draft Rule
-## Interim Rule
-## Final Rule
+## Scheme Rule
 
 --- end of document ---

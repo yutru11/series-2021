@@ -1,9 +1,24 @@
-## PNG-DTF-SR-2021-001: BUSINESS RULES
-### Legal Liability
-### Data Collection
-### Data Custody
-### Data Dispoition
-### Privacy and Access
-### Internal Reviews
-### Assessments
-### Audits
+# PNG-DTF-SR-2021-001: BUSINESS RULES
+
+
+
+-----------------------------------------------------------------------------------------------------------------------
+## SCHEME REGISTRATION
+-----------------------------------------------------------------------------------------------------------------------
+All participating entities must:
++ register with the scheme before displaying the YuTru brand on premises or on merchandise.
++ undertake annual internal reviews of internal systems, staff capabilities, and business processes against criteria set out in these rules.
++ be able to prove compliance with these rules.
+-----------------------------------------------------------------------------------------------------------------------
+### LEVELS OF ASSURANCE
+-----------------------------------------------------------------------------------------------------------------------
+
+
+### DATA COLLECTION
+### DATA CUSTODY
+### DATA DISPOITION
+### PRIVACY AND ACCESS
+### LEGAL LIABILITY
+### INTERNAL REVIEWS
+### ASSESSMENTS
+### AUDITS

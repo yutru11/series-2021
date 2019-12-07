@@ -1,9 +1,13 @@
-## PNG-DTF-SR-2021-003: TECHNICAL RULES
-### Enrolment Biometrics
-### Biometric Standards
-### De-duplication Methods
-### Third-party Verifications
-### Security Token Specification
-### Data Specifications
-### Transmission Protocols
-### Encryption Standards
+# PNG-DTF-SR-2021-003: TECHNICAL RULES
+
+## ENROLMENT BIOMETRICS
+To permit the consolidation and/or interoperability of biometric attributes, in either raw or processed form, a number of measures need to be agreed to, including: 
+
+
+
+## DE-DUPLICATION METHODS
+## THIRD-PARTY VERIFICATIONS
+## SECURITY TOKEN SPECIFICATION
+## DATA SPECIFICATIONS
+## DATA CONTROLLER
+## TRANSMISSION & STORAGE ENCRYPTION
