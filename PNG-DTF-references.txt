@@ -1,9 +1,6 @@
 # REFERENCES
 
 
-
-
-
 + Berners-Lee, T., Fielding, R. and Masinter, L. 2005. ‘Uniform Resource Identifier (URI): Generic Syntax’, Network Working Group, RFC 3986, Category: Standards Track.
 
 + Clark J. 2017. ‘The State of Identification Systems in Africa’, Washington, DC: International Bank for Reconstruction and Development / The World Bank.
@@ -16,7 +13,7 @@
 
 + ISO/IEC 2005. ‘Common Criteria for Information Technology Security Evaluation’, Version 2.3, Supporting ISO/IEC 15408.
 
-+ ISO/IEC 29115:2011 (E)
++ ISO/IEC 29115:2011. 'Entity Authentication Assurance Framework', 
 
 + Kantara Initiative 2017. ‘Kantara Initiative Inc. IPR Policies’, version 2, 16th February 2017.  
 

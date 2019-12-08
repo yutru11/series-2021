@@ -1,54 +1,31 @@
------------------------------------------------------------------------------------------------------------------------
-# DEFINITIONS AND INTERPRETATIONS
------------------------------------------------------------------------------------------------------------------------
-
------------------------------------------------------------------------------------------------------------------------
-## SECTION X: LEVEL OF REQUIREMENTS
------------------------------------------------------------------------------------------------------------------------
-The following definitions are interpreted according to definitions set out in RFC-2119 [https://www.ietf.org/rfc/rfc2119.txt]:
-
-### MAY
-This word, or the corresponding adjective "OPTIONAL", mean that an item is discretional.  One participating entity may choose to include the item because they deem it necessary or because the participating entity asserts that it enhances their implementation of the scheme rules, while another participating entity may omit the same item.  A scheme implementation by a participating entity which does not include a particular option MUST be prepared to interoperate with other implementations which do include the option, though perhaps with reduced functionality.  In the same vane an implementation which does include a particular option MUST be prepared to interoperate with another implementation which does not include the option (except, of course, for the feature the option provides.)
-
-### MUST
-This word, or the terms "REQUIRED" or "SHALL", mean that the definition is an absolute requirement of the scheme rules. 
-
-### MUST NOT	
-This phrase, or the phrase "SHALL NOT", mean that the definition is an absolute prohibition of the scheme rules.
-
-### SHOULD	
-This word, or the corresponding adjective "RECOMMENDED", mean that there may exist valid reasons in particular circumstances to ignore a particular item of the scheme rules, but the full implications must be understood and carefully weighed before choosing a different course.
-
-### SHOULD NOT
-This phrase, or the phrase "NOT RECOMMENDED", mean that there may exist valid reasons in particular circumstances when the particular behaviour is acceptable or even useful in the scheme, but the full implications should be understood, and the case carefully weighed before implementing any behaviour described with this label.
-
-
-
-
-
-
-
+# DEFINITIONS
 
 
 -----------------------------------------------------------------------------------------------------------------------
-## SECTION X: TERMS AND DEFINITIONS
+## SCHEME TERMINOLOGY
 -----------------------------------------------------------------------------------------------------------------------
 The following terms and definitions will be used in scheme documentation, unless a contrary term and definition is explained and used:
 
 ### ATTRIBUTE: 
 A named quality or characteristic inherent in or ascribed to someone or something. In identification systems common personal identity attributes include name, age, sex, place of birth, address, fingerprints, a photo, a signature, an identity number, and the date and place of registration.
 
-### ACTIVATE: 
-Activation means the method by which a registered entity joins a subcommittee within the Scheme or is engaged to help produce a subcommittee output. Activation is a requirement of all founders, members, and participants in Scheme subcommittees. 
-
 ### ATTRIBUTE PROVIDER:	
 An Attribute Provider (AP) means a participating entity that is responsible for management of attributes linked to an end user’s base identity and manages end user access to resources based on those attributes.
+
+### AUTHENTICATION FACTOR: 
+A piece of information and the accompnying process used to authenticate or verify the identity of an end user.
+
+### AUTHENTICATION PROTOCOL:
+A defined sequence of messages between a relying party and the scheme platform that enables the relying party to corroborate the end user's identity.
 
 ### BUDGET REQUEST:
 Issued by the GC of the BD, before a PG or WG can be deployed.
 
 ### CHARTER:
-Issued by the GC for a WG to begin work.
+The document issued by the GC for a subcommittee to begin work.
+
+### CLAIM:
+To state that something is the case or to make an assertion, without providing proof.
 
 ### CONTRIBUTE:
 To submit material to a subcommittee during an activity of the subcommittee or in the production of an output of the subcommittee. 
@@ -104,10 +81,10 @@ Intellectual Property (IP) is defined as, but not limited to, contributed materi
 + diagrams, photographs, and marketing collateral,
 + internal reports, facts, and charts, 
 + concepts (including those not in a material form), and
-+ all other information, documents and things; as disclosed by a scheme member during the course of Scheme subcommittee activities and the production of subcommittee outputs.
++ all other information, documents and things; as disclosed by a scheme member during the course of subcommittee activities and production of outputs.
 
 ### LICENSED FINANCIAL INSTITUTION:
-A licensed financial institution is a corporation licensed as a financial institution under the Banks and Financial Institutions Act (2000). All members in the YuTru scheme must be licensed financial institutions in PNG, although not all licensed financial institutions may necessarily join the scheme. An LFI may register in the Scheme as a member or as a participant. 
+A licensed financial institution is a corporation licensed as a financial institution under the Banks and Financial Institutions Act (2000). Participating entities that fulfil the role of credential provider (CP) should be licensed financial institutions in PNG, although not all licensed financial institutions may necessarily join the scheme. An LFI may register in the Scheme as a member or as a participant. 
 
 ### MATERIAL:
 Material is information contributed to the Scheme. Material may or may not represent IP or have associated IPR. All IP is considered material, but not all material contains IP.
@@ -162,7 +139,7 @@ The commercial trading name given to the private-sector digital trust framework 
 
 
 -----------------------------------------------------------------------------------------------------------------------
-## SECTION X: GENERAL SECURITY AND IDENTITY TERMINOLOGY
+## SECURITY AND IDENTITY TERMINOLOGY
 -----------------------------------------------------------------------------------------------------------------------
 ### ACCEPTABLE RISK:
 A risk that is understood by a system’s user, operator, owner, or accreditor. A risk is acceptable when the cost or difficulty implementing a countermeasure for the respective vulnerability is greater than the loss threatened by exposure to the risk.
