@@ -65,3 +65,43 @@ The
 ### Revocation
 ### Expiration
 ### Renewal
+
+
+-----------------------------------------------------------------------------------------------------------------------
+## SECTION X: CORE IDENTIFICATION DATA
+-----------------------------------------------------------------------------------------------------------------------
+This section outlines the core identitiy attributes and corresponding that must be contained in a digital identification registered in the scheme. 
+
+Wherever possible, deference to ISO codes lists, among other de facto and de jour standards, is made. 
+
+### FULL NAME: 
+{Title Case}, first name, last name, followed any middle names. 
+
+### NATIONALITY: 
+{Title Case}, the country of nationality specified in accordance with ISO 3166-1 (Country Codes).
+
+### RESIDENTIAL ADDRESS: {Title Case}, the current residential address of the end user, specific in accordance with:
+(a) ISO 19160-4:2017 (International postal address components and template language) and 
+(b) ISO 3166-1 (Codes for the representation of names of countries and their subdivisions.)
+
+### IDENTIFICATION NUMBER:
+
+
+### BIOMETRIC PAYLOAD:
+
+### STILL IMAGE FILE:
+If a still image is provided to a participating entity, the image must follow ICAO guidelines for passport photographs:
++ The image should be 2" x 2".
++ Must have adequate brightness and contrast.
++ The skin tone should be natural.
++ The end user must be looking straight ahead, centred and with a neutral expression.
++ The image should show a close up of the head and part of the shoulders
+
+Digital Photo:
++ The image
+
+Digital Video:
+The video clip recorded should be at least 5 seconds in duration and not more than 10 seconds.
+The video should be encoded in HEVC or H.264 video encoding format with lossless compression for transmission and storage.
+The video should be no slower than a 30 fps capture rate.
+The video 

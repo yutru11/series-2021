@@ -7,11 +7,13 @@
 -----------------------------------------------------------------------------------------------------------------------
 For the scheme to be trusted by all participating entities (credential providers, attribute poroviders, relying parties, and end users) it will be important to strictly control registration in the scheme and control access to the scheme's electronic platform.
 
-All participating entities must register with the scheme before displaying the YuTru brand on premises or on merchandise or before claiming explciitly or implicitly that their institution is a participating entity in the scheme.
+All participating entities must register with the scheme before displaying the YuTru brand on premises or on merchandise or before claiming, explciitly or implicitly, that their institution is a participating entity in the scheme.
 
-During the registration process a participating entity must declare what roles it will fulfil within the scheme: one or more of the following: credential provider, attribute provider, and/or relying party.
+During the registration process a participating entity must declare what scheme role(s) it will fulfil within the scheme, being one or more of the following: credential provider, attribute provider, and/or relying party.
 
 A participating entity will be considered registered if a registration form has been completed, lodged, and approved by the scheme operator. The registration form is provided in the <forms> section of these rules.
+
+
 
 
 -----------------------------------------------------------------------------------------------------------------------
@@ -21,14 +23,24 @@ A participating entity will be considered registered if a registration form has 
 -----------------------------------------------------------------------------------------------------------------------
 ## LEVELS OF ASSURANCE
 -----------------------------------------------------------------------------------------------------------------------
-Electronic transactions in the scheme have security requirements which depend on a common understanding of the degree of confidence in the identities of the transaction parties.
-The scheme will adopt and adhere to the ISO/IEC 29115:2011 standard for definitions of the levels of assurance that will be provided over 
+Digital identification transactions in the scheme have security requirements which depend on a common understanding of the degree of confidence in the identities of the transaction parties.
 
-### DATA COLLECTION
-### DATA CUSTODY
-### DATA DISPOITION
-### PRIVACY AND ACCESS
-### LEGAL LIABILITY
-### INTERNAL REVIEWS
-### ASSESSMENTS
-### AUDITS
+Participating entities will adopt and adhere to the ISO/IEC 29115:2011 standard which sets out four (4) levels of assurance to be provided over the digital identity of transaction parties. 
+
+<TODO: LOAs>
+
+Participating entities will apply an increasing degree of due diligence to obtain knowledge of the end user, taking a risk-based approach to identifying who an end user is, the nature of the relationship between the end user and the participating entity, and how that relationship transpires over time.
+
+Participating entities will assign each end user identity a corresponding risk classification based on the following cateogries and criteria:
+
+
+## DATA COLLECTION
+## DATA CUSTODY
+## DATA DISPOITION
+## PRIVACY AND ACCESS
+## LEGAL LIABILITY
+## INTERNAL REVIEWS
+A participating entity must be in a position to demonstrate a relationship between the digital identification process outlined in the <operating-rules> and a documented internal business process for onboarding end users.
+
+## ASSESSMENTS
+## AUDITS
