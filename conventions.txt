@@ -1,8 +1,9 @@
 # FORMATTING & NAMING CONVENTIONS
+----------------------------------------------------------------------
 
------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------
 ## INTRODUCTION
------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------
 The body of scheme documents are written in plain text format with markdown <?> formatting.  This is to ensure the widest possible readership. Using plain text avoids excluding readers who may not have access to proprietary software, like Microsoft Word. Using plain text also ensures that the content can be read by other systems automatically without the need for special conversions or transformations.  Presentation versions of the framework, governance and scheme documents will be made available for each <series> in PDF format.
 
 This document outlines the naming and formatting conventions used across all scheme documentation.  The scheme documentation consists of one or more of the following document types: <framework-document>, <governance-guideline>, and/or <scheme-rule>.
