@@ -1,6 +1,8 @@
 # Index
+----------------------------------------------------------------------
 
-## Scheme Registration
+## Registration
+
 ## Subcommittee Charter
 ## Subcommittee Response
 ## Scheme Rule
