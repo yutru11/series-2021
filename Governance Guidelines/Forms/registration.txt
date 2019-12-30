@@ -1,0 +1,60 @@
+# REGISTRATION
+======================================================================
+
+## INSTITUTION NAME: 
+     {Title Case}
+     <example: The Nationawide Superannuation Fund Ltd.>
+
+## COMPANY or BUSINESS REGISTRATION NUMBER: 
+     {X-XXXXXX}
+     <example: 6-123456>
+
+## PARTICIPATING ENTITY TYPE: 
+     {Credential Provider | Attribute Provider | Relying Party}
+     <example: Attribute Provider && Relying Party>
+
+## DATE SUBMITTED: 
+     {dd/mm/yyyy}}
+     <example: 12/03/2020>
+
+## DELEGATE #1 (PRIMARY):
+
+### FULL NAME: 
+     {Title Case}
+     <example: Jane Doe>
+
+### JOB TITLE: 
+     {Title Case}
+     <example: Cybersecurity Manager>
+
+### DATE OF BIRTH: 
+     {dd/mm/yyyy}}
+     <example: 01/01/1988>
+
+## DELEGATE #2 (AUXILLARY):
+----------------------------------------------------------------------
+### FULL NAME: 
+     {Title Case}
+     <example: John Smith>
+
+### JOB TITLE: 
+     {Title Case}
+     <example: Chief Compliance Officer>
+
+### DATE OF BIRTH: 
+     {dd/mm/yyyy}}
+     <example: 01/03/1990>
+
+## DATE APPROVED: 
+     {dd/mm/yyyy}
+
+## Public Key: 
+     {???}
+## Hardware Signature: 
+     {???}
+     <example: Web Terminal, Device Fingerprint>
+
+## API Key:
+     {}
+## Shared Secret: 
+     {Password & Salt & Hashed & Encrypted & Obfuscated} 

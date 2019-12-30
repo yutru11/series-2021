@@ -1,0 +1,108 @@
+PNG-DTF-2-028: Scheme Rules & Governance Guidelines (Final)
+Production of the set of governance guidelines to be used by the Digital Identification Bureau Ltd to work with scheme members to make, modify and maintain digital identification, consumer privacy, and data protection rules applicable to the PNG market. 
+Sections in this document may include, but not be limited to:
+Part A – Purpose and Scope
+•	Purpose & Aims
+•	Modus Operandi
+•	Lifecycle
+•	Functions
+•	Scope
+•	Services
+•	Interventions
+•	Support 
+•	Contacts
+
+Part B – Governance & Membership
+•	Membership Levels
+•	Membership Conditions
+•	Authority and Responsibilities
+o	Board of Directors
+o	Governance Council 
+o	Scheme Commissioner
+•	Staff, Office, and Infrastructure
+
+Part C – Critical Workflows
+•	Joining as:
+o	Shareholder
+o	Director
+o	Councillor
+o	Member
+o	Participant
+•	Document Types
+o	Requests
+o	Responses
+o	Recommendations
+o	Reports
+•	Statuses
+•	Status Changes
+•	Notices
+•	IPR Review
+•	Public Comments
+•	Voting by Ballot
+•	Change Management
+•	Configuration Management
+•	Exiting the Scheme
+
+Part D – Scheme Templates
+Production of the set of scheme rules to draw on and followed by the participating entities. This will build on the minimum viable set of documents produced in phase I, and will provide business, technical, legal, and operational rules. 
+Sections in this document may include, but not be limited to:
+
+Part A – Business Rules
+•	Legal Liability
+•	Data Collection
+•	Data Custody
+•	Data Disposition
+•	Privacy & Access
+•	Compliance
+o	Internal Reviews
+o	Assessments
+o	Audits
+
+Part B – Technical Rules
+•	Enrolment Biometrics
+•	Biometric Standards
+•	De-duplication Methods
+•	Third-party Verifications
+•	Token Specification
+•	Data Specifications
+•	Transmission Protocols
+•	Encryption Standards
+
+Part C – Operational Rules
+•	Acquisition
+•	Referral
+•	Vetting
+•	Assurance
+•	Issuance
+•	Maintenance
+•	Sharing
+•	Enquiry
+•	Review
+•	Revocation
+•	Expiration
+•	Renewal
+
+Part D – Legislation and Regulation
+•	Prevailing Legs/Regs
+•	Scheme Compliance
+•	Sandboxed Interventions
+•	Engagement with Regulator
+•	Coordination with External Parties
+
+The scheme rules will form the basis of electronic know-your-customer, consumer privacy, and data protection legislation and prudential standards to be adopted by, but not limited to, the BPNG. 
+PNG-DTF-2-029: Training and Engagement Report
+Training and stakeholder engagement report submitted that outlines:
+	An average of one day of training per month has taken place. This will include a summary of training provided, and information related to the participants’ organisation, gender and disability status.
+	A proposed pipeline of training to be delivered over the next three months.  
+	On average for the reporting period, fortnightly meetings with scheme delegates have taken place to draft the Governance Guidelines and Scheme Rules, with representation from an agreed quorum of scheme delegates.
+	Capacity development activities that have taken place with the Scheme Commissioner, and other relevant stakeholders.
+	Overview of PRINCE project management registers for the reporting period. 
+PNG-DTF-2-010: End of Phase II Report
+Report that outlines key areas including, but not limited to:
+	Status of previous phase
+	Activities and outputs
+	Additional support provided outside scope of works
+	Risk management
+	Key changes
+	Priorities for next phase
+	Lessons learned
