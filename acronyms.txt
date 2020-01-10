@@ -3,8 +3,8 @@
 
 ACRONYM   MEANING
 ====================================================================
-AI 		Authorised Institution
-AML 		Anti Money Laundering
+AI  Authorised Institution
+AML Anti Money Laundering
 AP		Attribute Provider
 API		Application Programming Interface
 BD		Board of Directors
@@ -37,4 +37,3 @@ SC 		Subcommittee
 SR		Scheme Rules
 TFO		Trust Framework Operator
 TOE 		Target of Evaluation
-
