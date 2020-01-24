@@ -3,37 +3,37 @@
 
 ACRONYM   MEANING
 ====================================================================
-AI  Authorised Institution
-AML Anti Money Laundering
-AP		Attribute Provider
-API		Application Programming Interface
-BD		Board of Directors
+AI			Authorised Institution
+AML			Anti Money Laundering
+AP			Attribute Provider
+API			Application Programming Interface
+BD			Board of Directors
 BPNG		Bank of Papua New Guinea
 CEFI		Centre for Excellence in Financial Inclusion
-CID		Core Identity Data
-CP		Credential Provider
+CID			Core Identity Data
+CP			Credential Provider
 CRC 		Cyclic Redundancy Check
 DIBL		Digital Identification Bureau Limited
-DRN		Document Reference Number
-EU		End User
+DRN			Document Reference Number
+EU			End User
 FASU		Financial Analysis & Surveillance Unit
-GC		Governance Council
-GG		Governance Guidelines
-GM		General Manager
-IEC  	International Electrotechnical Commission
-IP		Intellectual Property
+GC			Governance Council
+GG			Governance Guidelines
+GM			General Manager
+IEC  		International Electrotechnical Commission
+IP			Intellectual Property
 IPR 		Intellectual Property Rights
-ISO		International Standards Organisation
-KYC		Know Your Customer
-LFI		Licensed Financial Institution
-LOA		Level of Assurance
+ISO			International Standards Organisation
+KYC			Know Your Customer
+LFI			Licensed Financial Institution
+LOA			Level of Assurance
 NIST		National Institute of Standards and Technology
-PE		Participating Entity
-PNG		Papua New Guinea
+PE			Participating Entity
+PNG			Papua New Guinea
 PNGDCA	PNG Digital Commerce Association Inc.
-RP		Relying Party
-SC 		Scheme Commissioner
-SC 		Subcommittee
-SR		Scheme Rules
-TFO		Trust Framework Operator
+RP			Relying Party
+SC 			Scheme Commissioner
+SC 			Subcommittee
+SR			Scheme Rules
+TFO			Trust Framework Operator
 TOE 		Target of Evaluation

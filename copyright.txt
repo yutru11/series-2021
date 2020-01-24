@@ -1,27 +1,26 @@
 # COPYRIGHT
 ----------------------------------------------------------------------
-© 2018- Digital Identification Bureau Limited.  All rights reserved.
+© 2018- Digital Identification Bureau Limited (DIBL).  All rights reserved.
+
+# COMMENTS AND FEEDBACK
+----------------------------------------------------------------------
+A YuTru intellectual property rights (IPR) contribution agreement is not required to participate in discussion subcommittees. If participants provide feedback, they (on behalf of themselves and any organization they represent) are deemed to agree that: they assign the DIBL the right to use their feedback and comments. Participants grant to the DIBL a perpetual, irrevocable, non-exclusive, royalty-free, worldwide license, with the right to directly and indirectly sublicense, to use, copy, license, publish, and distribute and exploit the comments and feedback provided, in any way, and to create derivative works that may be based on or incorporate all or part of the comments or feedback provided, for the purpose of developing and promoting the YuTru digital trust framework, its rules and platforms, and/or enabling the implementation of its rules and platform. Also, by a participant providing comments and feedback, the participant warrants that they have the requisite rights to provide the comments or feedback, and that the comments or feedback at no time will be treated as confidential. The DIBL is not required to incorporate comments or feedback into the YuTru trust framework, either its rules or its platform.
 
 # BRAND
 ----------------------------------------------------------------------
-The “YuTru” brand including the “YuTru” circles and lines logo are trademarks of the Digital Identification Bureau Limited.
+The “YuTru” brand, including the “YuTru” circles and lines logo, are trademarks of the DIBL.
 The Digital Identification Bureau trades in the name YuTru.
 
 # IDENTIFIERS
 ----------------------------------------------------------------------
-Company registration number: 1-120496.
-Business registration number: 6-241426.
-
-The official website is: https://yutru.org.
-
-No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the written permission of the Digital Identification Bureau Limited, except in the case of brief quotations embodied in critical reviews and certain other non-commercial uses permitted by copyright law.
+Company registration number: 1-120496. Business registration number: 6-241426. The official website is: https://yutru.org. No part of this body of work (the YuTru digital trust framework) may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the written permission of the DIBL, except in the case of brief quotations embodied in critical reviews and certain other non-commercial uses permitted by copyright law.
 
 # PERMISSION
 ----------------------------------------------------------------------
 For permission requests or enquiries, write to the Digital Identification Bureau Limited, addressed ‘Attention: Chairman,’ at the address below:
-
 C/- Mr Steve Patrick
 Dentons PNG
 Level 5, BSP Haus, Harbour City
 Konedobu, National Capital District
 Papua New Guinea
+
