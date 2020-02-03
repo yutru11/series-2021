@@ -15,3 +15,4 @@
 # Relying Parties
 # ---------------
 1. Origin Energy Ltd.
+2. Digicel PNG Ltd.

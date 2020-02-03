@@ -1,6 +1,3 @@
-PNG-DTF-2-028: Scheme Rules & Governance Guidelines (Final)
-Production of the set of governance guidelines to be used by the Digital Identification Bureau Ltd to work with scheme members to make, modify and maintain digital identification, consumer privacy, and data protection rules applicable to the PNG market. 
-Sections in this document may include, but not be limited to:
 Part A – Purpose and Scope
 •	Purpose & Aims
 •	Modus Operandi
@@ -16,23 +13,23 @@ Part B – Governance & Membership
 •	Membership Levels
 •	Membership Conditions
 •	Authority and Responsibilities
-o	Board of Directors
-o	Governance Council 
-o	Scheme Commissioner
+o		Board of Directors
+o		Governance Council 
+o		Scheme Commissioner
 •	Staff, Office, and Infrastructure
 
 Part C – Critical Workflows
 •	Joining as:
-o	Shareholder
-o	Director
-o	Councillor
-o	Member
-o	Participant
+o		Shareholder
+o		Director
+o		Councillor
+o		Member
+o		Participant
 •	Document Types
-o	Requests
-o	Responses
-o	Recommendations
-o	Reports
+o		Requests
+o		Responses
+o		Recommendations
+o		Reports
 •	Statuses
 •	Status Changes
 •	Notices
@@ -54,9 +51,9 @@ Part A – Business Rules
 •	Data Disposition
 •	Privacy & Access
 •	Compliance
-o	Internal Reviews
-o	Assessments
-o	Audits
+o		Internal Reviews
+o		Assessments
+o		Audits
 
 Part B – Technical Rules
 •	Enrolment Biometrics
