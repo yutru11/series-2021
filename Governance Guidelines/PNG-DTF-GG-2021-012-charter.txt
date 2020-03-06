@@ -1,13 +1,15 @@
 # Charter
 
 ## INTRODUCTION
-YuTru holds steadfast the principles of openness, transparency and fairness in its engagement with its participants & members, other industry consortia and the broader identity and privacy community.  Unlike many other organisations in our industry, it is not required of our participants, members, nor even directors, to sign a non-disclosure agreement to YuTru.  
+YuTru holds steadfast the principles of openness, transparency and fairness in its engagement with scheme participants & members, other industry consortia and the broader identity and privacy community.  Unlike other similar organisations in our industry, YuTru does not require our participants, members, nor even directors, to sign a non-disclosure agreement to YuTru.  
 
 We believe that the benefits of stating our principles explicitly like this far outweigh the occasional inconveniences: indeed, we believe that principle ought to trump convenience more often in our connected lives.
 
 We clearly state our Mission and Vision that build off the foundations of Open-Stand’s 5 principles https://open-stand.org/about-us/principles/ for standards and technology development. Those principles equally apply to YuTru's broader scope of services.
 
-The YuTru trust framework (the Scheme) will be a system of citizen digital identification supported by licensed financial institutions (LFI) in Papua New Guinea (PNG) that will improve inclusion in the country’s financial sector.  The Scheme is operated by the Digital Identification Bureau Limited (DIBL), which is owned by the PNG Digital Commerce Association Inc. (PNGDCA). 
+The YuTru trust framework (i.e the Scheme) will be a system of citizen digital identification supported by licensed financial institutions (LFI) in Papua New Guinea (PNG) that will improve inclusion in the country’s financial sector.  
+
+The Scheme is operated by the Digital Identification Bureau Limited (DIBL), which is owned by the PNG Digital Commerce Association Inc. (PNGDCA). 
 
 By using digital technologies rather than paper, the Scheme will make it easier and less costly for citizens to acquire a digital identity and, accordingly, for them to obtain services from the formal financial sector.
 
