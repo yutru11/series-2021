@@ -1,4 +1,4 @@
-# DEFINITIONS
+unauthorised# DEFINITIONS
 ----------------------------------------------------------------------
 
 ----------------------------------------------------------------------
@@ -6,14 +6,14 @@
 ----------------------------------------------------------------------
 The following terms and definitions will be used in scheme documentation, unless a contrary term and definition is explained and used:
 
-### ATTRIBUTE: 
+### ATTRIBUTE:
 A named quality or characteristic inherent in or ascribed to someone or something. In identification systems common personal identity attributes include name, age, sex, place of birth, address, fingerprints, a photo, a signature, an identity number, and the date and place of registration.
 
-### ATTRIBUTE PROVIDER:	
+### ATTRIBUTE PROVIDER:
 An Attribute Provider (AP) means a participating entity that is responsible for management of attributes linked to an end user’s base identity and manages end user access to resources based on those attributes.
 
-### AUTHENTICATION FACTOR: 
-A piece of information and the accompnying process used to authenticate or verify the identity of an end user.
+### AUTHENTICATION FACTOR:
+A piece of information and the accompanying process used to authenticate or verify the identity of an end user.
 
 ### AUTHENTICATION PROTOCOL:
 A defined sequence of messages between a relying party and the scheme platform that enables the relying party to corroborate the end user's identity.
@@ -28,11 +28,11 @@ The document issued by the GC for a subcommittee to begin work.
 To state that something is the case or to make an assertion, without providing proof.
 
 ### CONTRIBUTE:
-To submit material to a subcommittee during an activity of the subcommittee or in the production of an output of the subcommittee. 
+To submit material to a subcommittee during an activity of the subcommittee or in the production of an output of the subcommittee.
 Submissions of material can be in writing, including by way of an electronic medium. Submissions can be orally, only if they are memorialised in the subcommittee’s minutes specifically identifying the submission and attributing them to a member or participant.
 
 ### CREDENTIAL PROVIDER:
-A Credential Provider (CP) is a participating entity that issues credentials to registered end users, for the purposes of transacting securely with them, offering them resources (information, goods, and/or services) on the basis of authorisations their identity possesses. A CP forms part of the YuTru digital trust framework and must be a licensed financial institution in PNG. 
+A Credential Provider (CP) is a participating entity that issues credentials to registered end users, for the purposes of transacting securely with them, offering them resources (information, goods, and/or services) on the basis of authorisations their identity possesses. A CP forms part of the YuTru digital trust framework and must be a licensed financial institution in PNG.
 
 ### DELEGATE:
 A natural person, who is also is an officer (which includes a director or employee) of a licensed financial institution appointed by the organisation to represent the organisation to the Scheme.  A delegate participates in the subcommittee activities and contributes material in the production of subcommittee outputs.  A delegate will be the single point of contact between the Scheme and a member or participant institution.
@@ -41,7 +41,7 @@ A natural person, who is also is an officer (which includes a director or employ
 Issued by the Governance Council for a discussion subcommittee to start up.
 
 ### DRAFT RECOMMENDATION:
-The response provided by a ubcommittee to the GC, in response to the charter it received, and the work done.
+The response provided by a subcommittee to the GC, in response to the charter it received, and the work done.
 
 ### SUBSCRIPTION AGREEMENT:
 The legal document that underpins membership and/or participation by an individual or organisation in the Scheme. Execution of an engagement contract and doing all things necessary to comply with the contract’s terms and conditions represents the registration of a Scheme member or participant.
@@ -49,8 +49,8 @@ The legal document that underpins membership and/or participation by an individu
 ### FINAL RECOMMENDATION:
 Once a ballot is held on a draft recommendation and it passes, it becomes a final recommendation issued by the GC to the SC.
 
-### GOVERNANCE COUNCIL:	
-The Governance Council (GC) is an organ of the trust framework operator responsible for governing the Scheme. Functions of the GC include setting policy, engaging members, establishing security requirements, adopting standards, and setting technical specifications. The GC is also responsible for managing the discussion group, project group, and working group subcommittees. 
+### GOVERNANCE COUNCIL:
+The Governance Council (GC) is an organ of the trust framework operator responsible for governing the Scheme. Functions of the GC include setting policy, engaging members, establishing security requirements, adopting standards, and setting technical specifications. The GC is also responsible for managing the discussion group, project group, and working group subcommittees.
 The GC comprises at least four members, two permanent and two temporary members: The Scheme commissioner (permanent, a representative from the board of directors of the Digital Identification Bureau Ltd. (permanent), a delegate from the relevant project or working group, and a delegate picked from among the Scheme delegates (one who is not presently working on a project group or working group).
 
 ### GOVERNANCE GUIDELINES:
@@ -58,33 +58,33 @@ The body of documentation that will specify the way in which the YuTru digital t
 
 ### INTELLECTUAL PROPERTY:
 Intellectual Property (IP) is defined as, but not limited to, contributed material representing:
-+ identity management procedures, 
-+ information management practices, 
++ identity management procedures,
++ information management practices,
 + computer security protocols,
 + test tools and toolkits, software development kits, software interfaces,
 + source code,
-+ online help documentation, reference implementations, 
-+ prototypes, software, software protocols, 
++ online help documentation, reference implementations,
++ prototypes, software, software protocols,
 + network and system designs and architectures,
 + disaster recovery and business continuity protocols,
-+ data formats and technical specifications, 
-+ internal policy documents, 
-+ business operations, 
-+ practices for organisational lines-of-defence risk management, 
-+ administrative back-office procedures, 
-+ current and future legal and commercial contractual agreements, 
++ data formats and technical specifications,
++ internal policy documents,
++ business operations,
++ practices for organisational lines-of-defence risk management,
++ administrative back-office procedures,
++ current and future legal and commercial contractual agreements,
 + arrangements with customers, employees, service providers, and vendors,
-+ trade secrets and proprietary information, 
-+ technical information, 
-+ financial and accounting information, 
-+ procedures and other internal reference manuals, 
++ trade secrets and proprietary information,
++ technical information,
++ financial and accounting information,
++ procedures and other internal reference manuals,
 + diagrams, photographs, and marketing collateral,
-+ internal reports, facts, and charts, 
++ internal reports, facts, and charts,
 + concepts (including those not in a material form), and
 + all other information, documents and things; as disclosed by a scheme member during the course of subcommittee activities and production of outputs.
 
 ### LICENSED FINANCIAL INSTITUTION:
-A licensed financial institution is a corporation licensed as a financial institution under the Banks and Financial Institutions Act (2000). Participating entities that fulfil the role of credential provider (CP) should be licensed financial institutions in PNG, although not all licensed financial institutions may necessarily join the scheme. An LFI may register in the Scheme as a member or as a participant. 
+A licensed financial institution is a corporation licensed as a financial institution under the Banks and Financial Institutions Act (2000). Participating entities that fulfil the role of credential provider (CP) should be licensed financial institutions in PNG, although not all licensed financial institutions may necessarily join the scheme. An LFI may register in the Scheme as a member or as a participant.
 
 ### MATERIAL:
 Material is information contributed to the Scheme. Material may or may not represent IP or have associated IPR. All IP is considered material, but not all material contains IP.
@@ -124,7 +124,7 @@ The body of documentation that will guide operation of the YuTru digital trust f
 Any or all of the following internal organs of the TFO: discussion group (DG), project group (PG), or working group (WG).
 
 ### TRUST FRAMEWORK OPERATOR:
-The TFO is the Digital Identification Bureau Limited, a corporation formed under the Companies Act (1997) to govern and operate the ‘YuTru’ digital trust framework. Governance and operation will be in accordance documented rules and processes, agreed and adopted technical standards, multi-lateral agreements, and common terms and definitions. 
+The TFO is the Digital Identification Bureau Limited, a corporation formed under the Companies Act (1997) to govern and operate the ‘YuTru’ digital trust framework. Governance and operation will be in accordance documented rules and processes, agreed and adopted technical standards, multi-lateral agreements, and common terms and definitions.
 The aims of the TFO are to expand financial inclusion, harmonise digital identification among LFIs, formalise a system of vouching from known bank customers to new unknown customers, provide a reliable identity lookup and validation service, and to empower end users with better knowledge about digital identification and how to use it safely for better economic outcomes.
 
 ### YuTru:
@@ -182,9 +182,9 @@ Something of value to an individual or organisation.  An asset can also be refer
 ‘A rank on a hierarchical scale that judges the confidence someone can have that a mechanism adequately fulfils stated security requirements.’ (p.20, Shirey 2007).
 
 ### ASYMMETRIC KEY CRYPTOGRAPHY:
-Also known as public key cryptography, uses public and private keys to encrypt and decrypt data. The public and private keys are large numbers that are linked together by a provable mathematical relationship.Possession of the public key proves ownership of the linked private key. 
+Also known as public key cryptography, uses public and private keys to encrypt and decrypt data. The public and private keys are large numbers that are linked together by a provable mathematical relationship.Possession of the public key proves ownership of the linked private key.
 
-The private key is used to encrypt data and is kept secret. The public key is made freely available and is used to decrypt data. Decryption of the data with the public key proves unequivocally that the owner of the corresponding private key (the secret one) was the entity that encrypted the data. 
+The private key is used to encrypt data and is kept secret. The public key is made freely available and is used to decrypt data. Decryption of the data with the public key proves unequivocally that the owner of the corresponding private key (the secret one) was the entity that encrypted the data.
 
 Numerous Internet-based communication protocols depend on asymmetric key cryptography for encryption such as: SSH, S/MIME, OpenPGP, and SSL/TLS.
 
@@ -195,13 +195,13 @@ An intentional action by an entity (attacker) to evade a system’s security mea
 The perceived potential for a successful attack, should an attack be made, described in terms of an attacker’s expertise, resources, and motives (ISO/IEC 15408:2005).
 
 ### AUTHENTICATION:
-The process or action of verifying the identity of an end user or system or process, to a certain degree of confidence. 
+The process or action of verifying the identity of an end user or system or process, to a certain degree of confidence.
 
 ### AUTHENTICATION FACTOR:
 A piece of information used to authenticate or validate the identity of an entity. Authentication factors fall into four categories: something you know (e.g. a PIN), something you do (e.g. a particular place at which you regularly transact), something you are (e.g. a 3D face scan), and something you have (e.g. a mobile handset).
 
 ### AUTHORISATION:
-Authorization is a security mechanism used to determine user/client privileges or access levels related to system resources, including computer programs, files, services, data and application features. Authorization is normally preceded by authentication of user identity verification. 
+Authorisation is a security mechanism used to determine user/client privileges or access levels related to system resources, including computer programs, files, services, data and application features. Authorisation is normally preceded by authentication of user identity verification.
 
 ### AWARENESS-DETECTION-PREVENTION-RESPONSE:
 The four types of security solution to thwart computer security attacks are: awareness, detection, prevention, and response solutions.
@@ -213,7 +213,7 @@ A mechanism by which an entity is asked to authenticate to establish its identit
 See ASSERTION.
 
 ### CONFIDENTIALITY:
-‘The property that data is not disclosed to system entities unless they have been authorized to know the data’ or ‘the property that information is not made available or disclosed to unauthorized individuals, entities, or processes. (Shirey 2007).
+‘The property that data is not disclosed to system entities unless they have been authorised to know the data’ or ‘the property that information is not made available or disclosed to unauthorized individuals, entities, or processes. (Shirey 2007).
 
 ### CONNECTIVITY:
 The property of a target of evaluation which allows interaction with information technology entities external to the target, including the exchange of data by wire or wireless means.
@@ -231,16 +231,16 @@ The mathematical science that deals with analysis of a cryptographic system to g
 A set of hardware, software, firmware, or some combination thereof that implements cryptographic logic or processes, including cryptographic algorithms, and is contained within the module’s cryptographic boundary”, which is an explicitly defined contiguous perimeter that establishes the physical bounds of the module.
 
 ### CRYPTOGRAPHIC TOKEN:
-A portable, user-controlled, physical device (e.g., smartcard) used to store cryptographic information and possibly also perform cryptographic functions.’ (Shirey 2007).
+A portable, user-controlled, physical device (e.g., smart-card) used to store cryptographic information and possibly also perform cryptographic functions.’ (Shirey 2007).
 
 Tokens are representations of an authorisation given out when an end user authenticates themselves. A token can be held in software or hardware. Tokens are also used to prove an authentication factor, in response to a request for an end user to authenticate themselves. Software tokens provide the advantages of multi-factor authentication while simplifying and lowering the cost of distribution.
 
-An example of a software token might be the response from a computer server to an end user, upon successfully authenticating with the correct username and password. The software token can then be passed along by the end user (instead of repeatedly entering a username and password) to other services and systems, usually for a specific period of time, to prove they are authorised to access the system or service. 
+An example of a software token might be the response from a computer server to an end user, upon successfully authenticating with the correct username and password. The software token can then be passed along by the end user (instead of repeatedly entering a username and password) to other services and systems, usually for a specific period of time, to prove they are authorised to access the system or service.
 
-An example of a hardware security token (sometimes called an authentication token) is a small hardware device that an end user carries to authorize access to resources. The hardware may be in the form of a smart card or may be embedded in a commonly used object such as a key fob or wristband.
+An example of a hardware security token (sometimes called an authentication token) is a small hardware device that an end user carries to authorise access to resources. The hardware may be in the form of a smart card or may be embedded in a commonly used object such as a key fob or wristband.
 
 ### CRYPTOGRAPHY:
-The mathematical science that deals with transforming data to render its meaning unintelligible (i.e., to hide its semantic content), prevent its undetected alteration, or prevent its unauthorized use. If the transformation is reversible, cryptography also deals with restoring encrypted data to intelligible form (p.89, Shirey 2007).
+The mathematical science that deals with transforming data to render its meaning unintelligible (i.e., to hide its semantic content), prevent its undetected alteration, or prevent its unauthorised use. If the transformation is reversible, cryptography also deals with restoring encrypted data to intelligible form (p.89, Shirey 2007).
 
 ### CRYPTOLOGY:
 The science of communicating in secret. Cryptology includes both disciplines: cryptography and cryptanalysis (p.90, Shirey 2007).
@@ -291,7 +291,7 @@ Information which can be used by an authority to assess the validity and/or corr
 When something ceases to be valid, i.e. becomes invalid, e.g. a credential, because its intended lifespan has been exceeded.
 
 ### EXPOSURE:
-The action of a threat whereby sensitive data is made available to an unauthorized entity. Includes the following sub-actions: deliberate exposure, scavenging, human error, and system failure.
+The action of a threat whereby sensitive data is made available to an unauthorised entity. Includes the following sub-actions: deliberate exposure, scavenging, human error, and system failure.
 
 ### HUMAN USER:
 Any natural person that interacts with a target of evaluation in a security context.
@@ -309,19 +309,19 @@ A combination of identity attributes which uniquely distinguishes a person (natu
 The ability to determine with some level of certainty (a level of assurance) that the identity or identity attributes claimed by an end user are the claimant’s true identity or identity attributes.
 
 ### IDENTITY TRANSACTION:
-Any transaction involving two or more participants which involves establishing, verifying, issuing, asserting, revoking, communicating, or relying on identity information (UNCITRAL 2017, p.7, para.34). 
+Any transaction involving two or more participants which involves establishing, verifying, issuing, asserting, revoking, communicating, or relying on identity information (UNCITRAL 2017, p.7, para.34).
 
 ### INFORMAL:
 Expressed in natural language (ISO/IEC 15408:2005).
 
 ### INTEGRITY:
-The property that data has not been changed, destroyed, or lost in an unauthorized or accidental manner (Shirey 2007).
+The property that data has not been changed, destroyed, or lost in an unauthorised or accidental manner (Shirey 2007).
 
 ### INTEROPERABILITY:
 The ability of information systems and procedures to share or authenticate data and enable the exchange of information and knowledge among them (World Bank 2017).
 
 ### JSON:
-JavaScript Object Notation is a simple text-based data-interchange format.  It is easy for humans to read and write, as well as easy for computers to understand and output.  JSON is language-independent but uses a layout which is readily recognisable by most computer programmers familiar with the C-family of languages (i.e. C, C++, C#, Java, JavaScript, Perl, and Python.  These features make JSON a popular data-interchange language. 
+JavaScript Object Notation is a simple text-based data-interchange format.  It is easy for humans to read and write, as well as easy for computers to understand and output.  JSON is language-independent but uses a layout which is readily recognisable by most computer programmers familiar with the C-family of languages (i.e. C, C++, C#, Java, JavaScript, Perl, and Python.  These features make JSON a popular data-interchange language.
 
 ### LEGAL IDENTITY:
 An association, corporation, partnership, proprietorship, trust, or individual that has legal standing in the eyes of the law. A legal entity has legal capacity to enter into agreements or contracts, assume obligations, incur and pay debts, sue and be sued in its own rights, and to be held responsible for its actions.
